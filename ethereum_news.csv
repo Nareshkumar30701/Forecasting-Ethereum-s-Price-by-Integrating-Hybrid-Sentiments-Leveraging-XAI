@@ -1,0 +1,790 @@
+,Title,Date,Source,Tokens,Open Price (USD),High Price (USD),Low Price (USD),Close Price (USD),Volume
+22,"['staking', 'ethereum', '(', 'eth', ')', 'trezor']",2024-05-20,Reddit,staking ethereum eth trezor,3071.79,3690.83,3050.0,3661.3,42651.59066036
+23,"['adjusting', 'eth', 'issuance', 'curve']",2024-05-21,Reddit,adjusting eth issuance curve,3661.31,3838.0,3628.01,3789.23,42727.99545004
+24,"['wbeth', '?']",2024-05-21,Reddit,wbeth,3661.31,3838.0,3628.01,3789.23,42727.99545004
+25,"['eth', 'code', 'complexity', 'flaw']",2024-05-21,Reddit,eth code complexity flaw,3661.31,3838.0,3628.01,3789.23,42727.99545004
+26,"['sec', 'asked', 'eth', 'etf', 'application', 'updated', '.', 'happened', 'right', 'btc', 'etf', 'approved', '.']",2024-05-21,Reddit,sec asked eth etf application updated happened right btc etf approved,3661.31,3838.0,3628.01,3789.23,42727.99545004
+27,"['withdraw', 'binance', '?']",2024-05-21,Reddit,withdraw binance,3661.31,3838.0,3628.01,3789.23,42727.99545004
+28,"['fit21', 'bill', ',', 'vote', 'yay', 'nay', '?']",2024-05-21,Reddit,fit bill vote yay nay,3661.31,3838.0,3628.01,3789.23,42727.99545004
+29,"['repost', 'r/arbitrum', 'wanted', 'scam']",2024-05-21,Reddit,repost arbitrum wanted scam,3661.31,3838.0,3628.01,3789.23,42727.99545004
+30,"['nodle', 'x', 'haydenai', '-', 'new', 'partnership']",2024-05-21,Reddit,nodle haydenai new partnership,3661.31,3838.0,3628.01,3789.23,42727.99545004
+31,"['sent', 'via', 'wrong', 'network', '...']",2024-05-21,Reddit,sent via wrong network,3661.31,3838.0,3628.01,3789.23,42727.99545004
+32,"['bit', 'sad', 'etf', 'approval']",2024-05-21,Reddit,bit sad etf approval,3661.31,3838.0,3628.01,3789.23,42727.99545004
+33,"['eth', 'etf', 'get', 'approved', '23rd', ',', 'soon', 'start', 'trading', '?']",2024-05-21,Reddit,eth etf get approved soon start trading,3661.31,3838.0,3628.01,3789.23,42727.99545004
+34,"['xception', 'bot', ':', 'legit', '?']",2024-05-21,Reddit,xception bot legit,3661.31,3838.0,3628.01,3789.23,42727.99545004
+35,"['someone', 'help', 'understand', 'curve', 'tx', '?']",2024-05-22,Reddit,someone help understand curve,3789.32,3810.0,3655.0,3736.82,31332.13453289
+36,"['solidity', '0.8.26', 'release', 'announcement', '|', 'solidity', 'programming', 'language']",2024-05-22,Reddit,solidity release announcement solidity programming language,3789.32,3810.0,3655.0,3736.82,31332.13453289
+37,"[""'s"", 'thing', 'decentralized', 'governance']",2024-05-22,Reddit,thing decentralized governance,3789.32,3810.0,3655.0,3736.82,31332.13453289
+38,"['fix', 'issue', 'private', 'poa', 'network', 'geth', 'returning', '0', 'eth', 'balance', 'allocated', 'account', '?']",2024-05-22,Reddit,fix issue private poa network geth returning eth balance allocated account,3789.32,3810.0,3655.0,3736.82,31332.13453289
+39,"['new', 'video', 'showing', 'diamond', 'contract', 'work']",2024-05-22,Reddit,new video showing diamond contract work,3789.32,3810.0,3655.0,3736.82,31332.13453289
+40,"['anyone', 'us', 'rabby', 'wallet', '?']",2024-05-22,Reddit,anyone rabby wallet,3789.32,3810.0,3655.0,3736.82,31332.13453289
+41,"['please', 'help']",2024-05-23,Reddit,please help,3736.82,3943.11,3530.0,3780.86,67176.72972467
+42,"['nyota', 'interop', 'recap', '✨', '|', 'ethereum', 'foundation', 'blog']",2024-05-23,Reddit,nyota interop recap ethereum foundation blog,3736.82,3943.11,3530.0,3780.86,67176.72972467
+43,"['hard', 'drive', 'space', 'requirement', 'run', 'geth', '?']",2024-05-23,Reddit,hard drive space requirement run geth,3736.82,3943.11,3530.0,3780.86,67176.72972467
+44,"['first', 'shutterized', 'testnet', 'live', 'chiado', '!']",2024-05-23,Reddit,first shutterized testnet live chiado,3736.82,3943.11,3530.0,3780.86,67176.72972467
+45,"['mev', 'bot', 'creator']",2024-05-23,Reddit,mev bot creator,3736.82,3943.11,3530.0,3780.86,67176.72972467
+46,"['seriou', 'question', ':', 'ethereum', 'proof', 'stake', 'blockchain', 'susceptible', 'front', 'running', '?', 'recent', 'mev-boost', 'exploit', 'serious', 'risk', 'eth', 'chain', '?']",2024-05-23,Reddit,seriou question ethereum proof stake blockchain susceptible front running recent mev boost exploit serious risk eth chain,3736.82,3943.11,3530.0,3780.86,67176.72972467
+47,"['sec', 'approves', 'ethereum', 'etf', '!', '🎉']",2024-05-23,Reddit,sec approves ethereum etf,3736.82,3943.11,3530.0,3780.86,67176.72972467
+48,"['[', 'help', ']', '152', 'day', 'ago', 'erc20', 'erc1155', 'token', 'deposited', 'wallet', 'ethdev', '.', 'anyone', 'know', '?', 'transaction', 'hash', 'link', 'comment', ',', 'help', 'understanding', 'appreciated', '!']",2024-05-23,Reddit,help day ago erc erc token deposited wallet ethdev anyone know transaction hash link comment help understanding appreciated,3736.82,3943.11,3530.0,3780.86,67176.72972467
+49,"['vitalik', ':', 'layer', '2', 'really', 'differ', 'execution', 'sharding', '?']",2024-05-23,Reddit,vitalik layer really differ execution sharding,3736.82,3943.11,3530.0,3780.86,67176.72972467
+50,"['eth', 'etf', 'fee', ""'s"", '?', 'provider', 'lowest', '?']",2024-05-24,Reddit,eth etf fee provider lowest,3780.87,3826.16,3630.87,3726.37,24414.53014335
+51,"['top', '5', 'ethereum', 'analytic', 'tool']",2024-05-24,Reddit,top ethereum analytic tool,3780.87,3826.16,3630.87,3726.37,24414.53014335
+52,"['8', 'ethereum', 'etf', 'approved', 'sec']",2024-05-24,Reddit,ethereum etf approved sec,3780.87,3826.16,3630.87,3726.37,24414.53014335
+53,"['insufficient', 'fund', 'despite', 'enough', 'fund']",2024-05-24,Reddit,insufficient fund despite enough fund,3780.87,3826.16,3630.87,3726.37,24414.53014335
+54,"['biggest', 'beneficiary', 'ethereum', 'etf']",2024-05-25,Reddit,biggest beneficiary ethereum etf,3726.37,3774.39,3707.98,3749.32,5102.14510268
+55,"['common', 'pr', 'mistake', 'crypto', ':', 'insider', ""'s"", 'perspective']",2024-05-25,Reddit,common mistake crypto insider perspective,3726.37,3774.39,3707.98,3749.32,5102.14510268
+56,"['urge', 'congress', 'regulate', 'crypto', 'crypto', 'mining', 'u.s', '.']",2024-05-25,Reddit,urge congress regulate crypto crypto mining,3726.37,3774.39,3707.98,3749.32,5102.14510268
+57,"['seeking', 'thought', 'balancing', 'blockchain', 'privacy', 'government', 'compliance']",2024-05-26,Reddit,seeking thought balancing blockchain privacy government compliance,3749.32,3879.9,3732.5,3824.85,19213.31701914
+58,"['learning', 'tokenomics']",2024-05-26,Reddit,learning tokenomics,3749.32,3879.9,3732.5,3824.85,19213.31701914
+59,"['ethereum', 'liquidity', 'pool', ',', 'get', '?']",2024-05-26,Reddit,ethereum liquidity pool get,3749.32,3879.9,3732.5,3824.85,19213.31701914
+60,"['transferring', 'golem', '(', 'gnt', ')', 'jaxx', 'wallet']",2024-05-27,Reddit,transferring golem gnt jaxx wallet,3824.85,3973.73,3824.25,3892.1,20148.77990832
+61,"['coinbase', 'wallet', ',', '$', '20', 'worth', 'eth', 'per', 'eth', 'network', '.', 'swapping', 'usdc', '$', 'pika', 'keep', 'saying', 'need', 'eth', '.', '?']",2024-05-27,Reddit,coinbase wallet worth eth per eth network swapping usdc pika keep saying need eth,3824.85,3973.73,3824.25,3892.1,20148.77990832
+62,"['idea', ""'ve"", 'got', 'many', 'zk', 'protocol', 'day', '?']",2024-05-27,Reddit,idea got many protocol day,3824.85,3973.73,3824.25,3892.1,20148.77990832
+63,"['ship', 'eof', ',', 'peerdas', ',', 'upgrade', 'verkle', '.']",2024-05-27,Reddit,ship eof peerdas upgrade verkle,3824.85,3973.73,3824.25,3892.1,20148.77990832
+64,"['willing', 'give', 'feedback', 'beta', 'l2', 'marketplace', 'project', '?']",2024-05-28,Reddit,willing give feedback beta marketplace project,3892.1,3924.15,3771.37,3839.98,14779.32407273
+65,"['safe', 'eth', 'mobile', 'wallet']",2024-05-28,Reddit,safe eth mobile wallet,3892.1,3924.15,3771.37,3839.98,14779.32407273
+66,"['ethereum', 'decentralisation', '-', 'discussion']",2024-05-28,Reddit,ethereum decentralisation discussion,3892.1,3924.15,3771.37,3839.98,14779.32407273
+67,"['abandoned', 'eth', 'nft', 'prize', 'hunt', 'smart', 'contract', '.', 'prize', 'still', 'claimed', '?']",2024-05-28,Reddit,abandoned eth nft prize hunt smart contract prize still claimed,3892.1,3924.15,3771.37,3839.98,14779.32407273
+68,"['understanding', 'meaning', 'network', 'type', 'mainnet', 'statistic']",2024-05-29,Reddit,understanding meaning network type mainnet statistic,3839.99,3879.9,3742.21,3762.39,11221.44033831
+69,"['introducing', 'barz', '.', 'trustwallet', ""'s"", 'smart', 'wallet', 'solution']",2024-05-29,Reddit,introducing barz trustwallet smart wallet solution,3839.99,3879.9,3742.21,3762.39,11221.44033831
+70,"['tokenomics', ',', 'headache']",2024-05-29,Reddit,tokenomics headache,3839.99,3879.9,3742.21,3762.39,11221.44033831
+71,"['vitalik', ':', 'layer', '2', 'cultural', 'extension', 'ethereum']",2024-05-30,Reddit,vitalik layer cultural extension ethereum,3762.23,3821.64,3702.0,3746.05,10603.59363636
+72,"['tim', 'beiko', ':', 'allcoredevs', ',', 'network', 'upgrade', '&', 'ethmagicians', 'process', 'improvement']",2024-05-30,Reddit,tim beiko allcoredevs network upgrade ethmagicians process improvement,3762.23,3821.64,3702.0,3746.05,10603.59363636
+73,"['vitalik', 'buterin', 'make', 'generous', 'donation', 'help', 'tornado', 'cash', 'developer']",2024-05-30,Reddit,vitalik buterin make generous donation help tornado cash developer,3762.23,3821.64,3702.0,3746.05,10603.59363636
+74,"['looking', 'ceo']",2024-05-30,Reddit,looking ceo,3762.23,3821.64,3702.0,3746.05,10603.59363636
+75,"['someone', 'help', '?']",2024-05-30,Reddit,someone help,3762.23,3821.64,3702.0,3746.05,10603.59363636
+76,"['impersonation', 'fraud', ':', 'avoid']",2024-05-30,Reddit,impersonation fraud avoid,3762.23,3821.64,3702.0,3746.05,10603.59363636
+77,"['policy', 'expert', 'scott', 'johnson']",2024-05-30,Reddit,policy expert scott johnson,3762.23,3821.64,3702.0,3746.05,10603.59363636
+78,"['50', 'free-slashing', 'day', 'ethereum', 'mainnet', '🎉']",2024-05-31,Reddit,free slashing day ethereum mainnet,3746.91,3843.01,3722.19,3758.2,12337.17055491
+79,"['new', 'senior', 'security', 'engineer', 'position', 'blockchain', 'team', 'trail', 'bit', 'open', '!']",2024-05-31,Reddit,new senior security engineer position blockchain team trail bit open,3746.91,3843.01,3722.19,3758.2,12337.17055491
+80,"['chainlink', 'function', ':', 'get', 'array', 'j', 'file', 'use', 'contract', '?']",2024-05-31,Reddit,chainlink function get array file use contract,3746.91,3843.01,3722.19,3758.2,12337.17055491
+81,"['wallet', 'compromised', '?', '?']",2024-06-01,Reddit,wallet compromised,3758.37,3827.06,3750.16,3813.41,3398.87768055
+82,"['redotpay', 'crypto', 'card', ':', 'gateway', 'spend', 'crypto']",2024-06-02,Reddit,redotpay crypto card gateway spend crypto,3812.84,3834.36,3753.18,3779.48,3676.85738614
+83,"['pushing', 'blockchain', 'adoption', ':', 'cartesi', '&', 'uff', 'teaming']",2024-06-02,Reddit,pushing blockchain adoption cartesi uff teaming,3812.84,3834.36,3753.18,3779.48,3676.85738614
+84,"['transfer', 'eth', 'metamask', 'luno', '?']",2024-06-02,Reddit,transfer eth metamask luno,3812.84,3834.36,3753.18,3779.48,3676.85738614
+85,['tax'],2024-06-02,Reddit,tax,3812.84,3834.36,3753.18,3779.48,3676.85738614
+86,"['faq', ':', 'ethereum', 'issuance', 'reduction']",2024-06-02,Reddit,faq ethereum issuance reduction,3812.84,3834.36,3753.18,3779.48,3676.85738614
+87,"['developing', 'open', 'data']",2024-06-02,Reddit,developing open data,3812.84,3834.36,3753.18,3779.48,3676.85738614
+88,"['cash', 'app', 'equivalent', 'eth']",2024-06-02,Reddit,cash app equivalent eth,3812.84,3834.36,3753.18,3779.48,3676.85738614
+89,"['bankless', 'episode', ':', 'anatoly', 'v', 'drake', 'debate', '.', 'thought', '?']",2024-06-03,Reddit,bankless episode anatoly drake debate thought,3778.7,3849.01,3758.64,3765.89,12170.45437634
+90,"['accurate', 'tool', 'check', 'winrate', 'wallet']",2024-06-03,Reddit,accurate tool check winrate wallet,3778.7,3849.01,3758.64,3765.89,12170.45437634
+91,"['eips', 'insight', '(', 'may', '2024', ')']",2024-06-03,Reddit,eips insight may,3778.7,3849.01,3758.64,3765.89,12170.45437634
+92,"['question', 'odd', 'mev', 'transaction']",2024-06-03,Reddit,question odd mev transaction,3778.7,3849.01,3758.64,3765.89,12170.45437634
+93,"['bitcoin', 'staking', 'brings', 'defi', 'ecosytem', '?']",2024-06-03,Reddit,bitcoin staking brings defi ecosytem,3778.7,3849.01,3758.64,3765.89,12170.45437634
+94,"['virtualized', 'ethereum', 'network']",2024-06-04,Reddit,virtualized ethereum network,3766.08,3831.45,3728.77,3813.01,12726.19283652
+95,"['create', 'personalised', 'public', 'address']",2024-06-04,Reddit,create personalised public address,3766.08,3831.45,3728.77,3813.01,12726.19283652
+96,"['thought', 'ethereum', ""'s"", 'path', 'mass', 'adoption', '(', '+1', 'billion', 'active', 'address', ')']",2024-06-04,Reddit,thought ethereum path mass adoption billion active address,3766.08,3831.45,3728.77,3813.01,12726.19283652
+97,"['prominent', 'blockchain', 'project', 'good', 'achieving', 'un', 'sdgs', '?']",2024-06-04,Reddit,prominent blockchain project good achieving sdgs,3766.08,3831.45,3728.77,3813.01,12726.19283652
+98,"['expect', 'upcoming', '``', 'pectra', ""''"", 'upgrade']",2024-06-04,Reddit,expect upcoming pectra upgrade,3766.08,3831.45,3728.77,3813.01,12726.19283652
+99,"['os', ':', 'ethereum', '’', 'trustless', 'ai']",2024-06-04,Reddit,ethereum trustless,3766.08,3831.45,3728.77,3813.01,12726.19283652
+100,"['withdrawal', 'binance', 'ledger', 'timing']",2024-06-04,Reddit,withdrawal binance ledger timing,3766.08,3831.45,3728.77,3813.01,12726.19283652
+101,"['cheapest', 'safest', 'way', 'bridge', 'back', 'arbitrum/mainnet', '?']",2024-06-04,Reddit,cheapest safest way bridge back arbitrum mainnet,3766.08,3831.45,3728.77,3813.01,12726.19283652
+102,"['buying', 'ethereum', 'en']",2024-06-04,Reddit,buying ethereum,3766.08,3831.45,3728.77,3813.01,12726.19283652
+103,"['noob', 'question', 'upgrade']",2024-06-04,Reddit,noob question upgrade,3766.08,3831.45,3728.77,3813.01,12726.19283652
+104,"['explain', '90', '%', 'crypto', 'friend', 'family', '15', 'minute']",2024-06-04,Reddit,explain crypto friend family minute,3766.08,3831.45,3728.77,3813.01,12726.19283652
+105,"['hackathon', 'project', ':', 'launch', 'refundable', 'yield', 'generating', 'community', '/', 'memecoin', 'twitter', '/', 'x']",2024-06-05,Reddit,hackathon project launch refundable yield generating community memecoin twitter,3813.02,3884.42,3778.75,3866.35,9455.78364816
+106,"['🍄', 'stereum', 'ethereum', 'node', 'setup', '&', 'manager', '2.1.5']",2024-06-05,Reddit,stereum ethereum node setup manager,3813.02,3884.42,3778.75,3866.35,9455.78364816
+107,"['kraken', 'vs.', 'coinbase']",2024-06-05,Reddit,kraken coinbase,3813.02,3884.42,3778.75,3866.35,9455.78364816
+108,"['tinfoil', 'hat', '....', 'tokenized', 'stock', 'exchange', '(', 'theory', 'post', ')']",2024-06-05,Reddit,tinfoil hat tokenized stock exchange theory post,3813.02,3884.42,3778.75,3866.35,9455.78364816
+109,"['geth', 'v1.14.4', '-', '5-7', '%', 'faster', 'block', ',', 'ether', 'tracer', ',', 'lower', 'miner', 'tip', 'default']",2024-06-05,Reddit,geth faster block ether tracer lower miner tip default,3813.02,3884.42,3778.75,3866.35,9455.78364816
+110,"['check', 'new', 'look', 'detifiai', '!', 'share', 'thought', '!']",2024-06-05,Reddit,check new look detifiai share thought,3813.02,3884.42,3778.75,3866.35,9455.78364816
+111,"['help', '-', 'pending', 'transaction']",2024-06-06,Reddit,help pending transaction,3866.36,3875.99,3760.0,3811.83,8554.14518848
+112,"['ethereum', 'tax']",2024-06-06,Reddit,ethereum tax,3866.36,3875.99,3760.0,3811.83,8554.14518848
+113,"['mist', 'wallet']",2024-06-07,Reddit,mist wallet,3811.83,3838.09,3574.89,3676.69,16099.72069613
+114,"['strategy', 'introducing', 'novice', 'web3']",2024-06-07,Reddit,strategy introducing novice web,3811.83,3838.09,3574.89,3676.69,16099.72069613
+115,"['pre', 'bip29', 'wallet', 'key', 'conversion']",2024-06-07,Reddit,pre bip wallet key conversion,3811.83,3838.09,3574.89,3676.69,16099.72069613
+116,"['registering', 'user', '``', 'provider', ""''"", 'smart', 'contract', 'use', 'gas', '``', 'consumer', ""''"", '?']",2024-06-07,Reddit,registering user provider smart contract use gas consumer,3811.83,3838.09,3574.89,3676.69,16099.72069613
+117,"['wondering', ""'s"", 'mainnet', 'emulator', 'available', 'testing']",2024-06-07,Reddit,wondering mainnet emulator available testing,3811.83,3838.09,3574.89,3676.69,16099.72069613
+118,"['devcon', 'scholar', 'program', 'return', 'devcon', 'sea', '!', '|', 'ethereum', 'foundation', 'blog']",2024-06-07,Reddit,devcon scholar program return devcon sea ethereum foundation blog,3811.83,3838.09,3574.89,3676.69,16099.72069613
+119,"['earn', 'le', 'via', 'staking', 'eth', 'advance', 'price', '?']",2024-06-08,Reddit,earn via staking eth advance price,3676.88,3706.74,3657.39,3680.04,5592.04736657
+120,"['understanding', 'transaction', 'status']",2024-06-08,Reddit,understanding transaction status,3676.88,3706.74,3657.39,3680.04,5592.04736657
+121,"['dex', 'fee', 'high']",2024-06-09,Reddit,dex fee high,3680.21,3719.73,3665.53,3705.8,3530.97308769
+122,"['global', 'finance', 'arriving', 'blockchain', ':', 'win', 'world', ',', 'keep', 'soul', '?']",2024-06-09,Reddit,global finance arriving blockchain win world keep soul,3680.21,3719.73,3665.53,3705.8,3530.97308769
+123,"['use', 'tool', 'like', 'rocketpool', 'instead', 'ethereum', 'solo', 'validator', '32', 'eth', '?']",2024-06-09,Reddit,use tool like rocketpool instead ethereum solo validator eth,3680.21,3719.73,3665.53,3705.8,3530.97308769
+124,"['rocket', 'pool', '-', 'houston', 'upgrade', 'saturn', 'preview']",2024-06-10,Reddit,rocket pool houston upgrade saturn preview,3705.8,3710.0,3640.0,3664.38,7890.38050272
+125,"['eth', 'xmr', 'xmr', 'eth', ',', 'transaction', 'traced', 'back', 'main', 'wallet', '?']",2024-06-10,Reddit,eth xmr xmr eth transaction traced back main wallet,3705.8,3710.0,3640.0,3664.38,7890.38050272
+126,"['arbitrum', 'pas', 'enough', 'value', 'back', 'ethereum', '?']",2024-06-10,Reddit,arbitrum pa enough value back ethereum,3705.8,3710.0,3640.0,3664.38,7890.38050272
+127,"['spending', '$', '90k', 'daily', '``', 'blob', ""''"", ';', 'taiko', ""'s"", 'approach', 'scaling', 'solution', 'sustainable', '?']",2024-06-10,Reddit,spending daily blob taiko approach scaling solution sustainable,3705.8,3710.0,3640.0,3664.38,7890.38050272
+128,"['depositing', 'eth', 'binance']",2024-06-11,Reddit,depositing eth binance,3664.38,3668.45,3430.48,3497.85,21090.37940866
+129,"['first', 'ethereum', 'trx']",2024-06-11,Reddit,first ethereum trx,3664.38,3668.45,3430.48,3497.85,21090.37940866
+130,"['wo', ""n't"", 'anyone', 'build', 'web3', 'gated', 'community', '?']",2024-06-11,Reddit,anyone build web gated community,3664.38,3668.45,3430.48,3497.85,21090.37940866
+131,"['receive', 'eth', 'chain', 'mainnet', '?']",2024-06-11,Reddit,receive eth chain mainnet,3664.38,3668.45,3430.48,3497.85,21090.37940866
+132,"['eip-7702', 'explained']",2024-06-11,Reddit,eip explained,3664.38,3668.45,3430.48,3497.85,21090.37940866
+133,"['adapted', 'site', 'support', 'ethereum', 'altcoins', ',', 'would', 'use', '?', '?']",2024-06-12,Reddit,adapted site support ethereum altcoins would use,3497.02,3655.47,3464.12,3559.28,18476.11561094
+134,"['devs', ':', 'building', 'aave']",2024-06-12,Reddit,devs building aave,3497.02,3655.47,3464.12,3559.28,18476.11561094
+135,"['three', 'month', 'blob', ':', 'usage', 'review']",2024-06-13,Reddit,three month blob usage review,3559.26,3559.26,3428.75,3468.9,11377.88342119
+136,"['memorise', 'seed', 'phrase', 'quickly', '&', 'easily']",2024-06-13,Reddit,memorise seed phrase quickly easily,3559.26,3559.26,3428.75,3468.9,11377.88342119
+137,"['space', 'time', 'introduces', 'ultra-fast', 'zk', 'prover']",2024-06-13,Reddit,space time introduces ultra fast prover,3559.26,3559.26,3428.75,3468.9,11377.88342119
+138,"['staking', 'keyper', 'incentive', 'mechanism', 'coming', 'soon', 'shutter', 'dao', '0x36']",2024-06-13,Reddit,staking keyper incentive mechanism coming soon shutter dao,3559.26,3559.26,3428.75,3468.9,11377.88342119
+139,"['ethereum', ':', 'path', 'global', 'unity', 'innovation']",2024-06-14,Reddit,ethereum path global unity innovation,3468.9,3529.49,3364.01,3480.1,15806.67821475
+140,"['anyone', 'know', 'many', 'employee', 'eth', '?']",2024-06-15,Reddit,anyone know many employee eth,3480.11,3592.0,3473.88,3564.36,8701.12570213
+141,"['tag', 'tx', 'metadata', 'arbitrary', 'contract', 'tx', ',', 'fully', 'onchain', '.', 'ghost', 'tag', 'allow', 'dynamic', ',', 'flexible', 'open', 'tag', 'even', 'deployed', 'contract', '.', 'fully', 'open', 'source', ',', 'including', 'node', '.']",2024-06-15,Reddit,tag metadata arbitrary contract fully onchain ghost tag allow dynamic flexible open tag even deployed contract fully open source including node,3480.11,3592.0,3473.88,3564.36,8701.12570213
+142,"['building', 'javascript', 'dapps', 'cartesi', ':', 'part', '1']",2024-06-16,Reddit,building javascript dapps cartesi part,3564.36,3649.99,3542.03,3620.19,4671.76635326
+143,"['ether', 'wallet']",2024-06-16,Reddit,ether wallet,3564.36,3649.99,3542.03,3620.19,4671.76635326
+144,"['0.00149261', 'eth', '?']",2024-06-16,Reddit,eth,3564.36,3649.99,3542.03,3620.19,4671.76635326
+145,"['ethereum', 'node', 'similar', 'bitcoin', '?', ',', 'run', 'raspberry', 'pi', '?']",2024-06-16,Reddit,ethereum node similar bitcoin run raspberry,3564.36,3649.99,3542.03,3620.19,4671.76635326
+146,"['thought', 'effective', 'token', 'design']",2024-06-16,Reddit,thought effective token design,3564.36,3649.99,3542.03,3620.19,4671.76635326
+147,"['ethereum', 'spot', 'future', 'etf', 'overview']",2024-06-16,Reddit,ethereum spot future etf overview,3564.36,3649.99,3542.03,3620.19,4671.76635326
+148,"['🌐', 'ssv', 'network', 'operator', '-', 'set', 'ssh', 'reverse', 'proxy']",2024-06-16,Reddit,ssv network operator set ssh reverse proxy,3564.36,3649.99,3542.03,3620.19,4671.76635326
+149,"['guide', 'building', 'rust', 'dapps', 'cartesi']",2024-06-16,Reddit,guide building rust dapps cartesi,3564.36,3649.99,3542.03,3620.19,4671.76635326
+150,"['next', ',', 'zksync', 'native', 'token', ""'s"", 'listing', '?']",2024-06-17,Reddit,next zksync native token listing,3620.93,3634.61,3465.0,3511.23,16336.43499634
+151,"['ethereum', 'account', 'global', 'state', 'bad', 'l2', 'scaling', '?']",2024-06-17,Reddit,ethereum account global state bad scaling,3620.93,3634.61,3465.0,3511.23,16336.43499634
+152,"['✨', 'python', 'uniswap', 'universal', 'router', 'sdk', 'v1.2.0', '!', '✨']",2024-06-17,Reddit,python uniswap universal router sdk,3620.93,3634.61,3465.0,3511.23,16336.43499634
+153,"['finding', 'mispriced', 'opcodes', 'fuzzing', 'fuelvm']",2024-06-17,Reddit,finding mispriced opcodes fuzzing fuelvm,3620.93,3634.61,3465.0,3511.23,16336.43499634
+154,"['beacon', 'proxy', 'implementation']",2024-06-18,Reddit,beacon proxy implementation,3511.23,3513.81,3350.0,3481.86,22926.06146939
+155,"['unclear', 'nonce', 'management', 'erc-4337', '(', 'account', 'abstraction', ')', '!']",2024-06-18,Reddit,unclear nonce management erc account abstraction,3511.23,3513.81,3350.0,3481.86,22926.06146939
+156,"['rhino', 'review', '-', 'ethereum', 'staking', 'journal', '#', '26', '!']",2024-06-18,Reddit,rhino review ethereum staking journal,3511.23,3513.81,3350.0,3481.86,22926.06146939
+157,"['network', 'token', '?']",2024-06-18,Reddit,network token,3511.23,3513.81,3350.0,3481.86,22926.06146939
+158,"['eth', 'slashing', 'explained']",2024-06-18,Reddit,eth slashing explained,3511.23,3513.81,3350.0,3481.86,22926.06146939
+159,"['burn', 'incentive', 'mev', 'pricing', 'auction']",2024-06-18,Reddit,burn incentive mev pricing auction,3511.23,3513.81,3350.0,3481.86,22926.06146939
+160,"['exchange', 'generated', 'deposit', 'address', 'get', 'invalid', 'format', 'error', '.']",2024-06-19,Reddit,exchange generated deposit address get invalid format error,3482.11,3586.45,3465.69,3557.63,22822.50463694
+161,"['distinction', 'gas', 'ether', '?']",2024-06-19,Reddit,distinction gas ether,3482.11,3586.45,3465.69,3557.63,22822.50463694
+162,"['ai', 'coding', ',', 'worth', 'learn', 'solidity', '?']",2024-06-19,Reddit,coding worth learn solidity,3482.11,3586.45,3465.69,3557.63,22822.50463694
+163,"[""'s"", 'going', 'devcon', '7', 'sea', 'bangkok', '?']",2024-06-20,Reddit,going devcon sea bangkok,3557.63,3620.0,3482.61,3511.96,15116.00991145
+164,"['trying', 'send', 'eth', 'geth', 'console', ':', 'gas', 'required', 'exceeds', 'allowance']",2024-06-21,Reddit,trying send eth geth console gas required exceeds allowance,3511.96,3543.6,3443.9,3517.25,17459.77504219
+165,"['recent', '2', 'million', 'ethereum', 'supply', 'increase']",2024-06-21,Reddit,recent million ethereum supply increase,3511.96,3543.6,3443.9,3517.25,17459.77504219
+166,"['new', 'nft', 'app', 'idea', '-', 'looking', 'feedback', 'validation', '!']",2024-06-21,Reddit,new nft app idea looking feedback validation,3511.96,3543.6,3443.9,3517.25,17459.77504219
+167,"['staking', 'eth', 'allowed', 'state', 'like', 'california', 'due', 'change', 'policy', 'fed', 'level', '?']",2024-06-22,Reddit,staking eth allowed state like california due change policy fed level,3517.08,3519.5,3476.0,3495.55,6121.83428568
+168,"['hardware', 'wallet', 'support', 'multiple', 'wallet', 'separate', 'seed', 'phrase', '?']",2024-06-22,Reddit,hardware wallet support multiple wallet separate seed phrase,3517.08,3519.5,3476.0,3495.55,6121.83428568
+169,"['michael', 'saylor', 'ethereum~', '?']",2024-06-22,Reddit,michael saylor ethereum,3517.08,3519.5,3476.0,3495.55,6121.83428568
+170,"['ethereum', 'etf', 'mean', 'blockchain', 'defi', 'ecosystem', '?']",2024-06-22,Reddit,ethereum etf mean blockchain defi ecosystem,3517.08,3519.5,3476.0,3495.55,6121.83428568
+171,"['crypto', 'currency', 'think', 'likely', 'shrink', 'power', 'state', '?']",2024-06-22,Reddit,crypto currency think likely shrink power state,3517.08,3519.5,3476.0,3495.55,6121.83428568
+172,"['eth', 'chart', '?']",2024-06-23,Reddit,eth chart,3494.48,3519.43,3408.0,3418.34,4084.72521579
+173,"['ethereum', 'foundation', 'mailing', 'list', 'provider', 'compromised', ',', 'careful']",2024-06-23,Reddit,ethereum foundation mailing list provider compromised careful,3494.48,3519.43,3408.0,3418.34,4084.72521579
+174,"['request', 'method', ':', 'converting', 'eth', 'wallet']",2024-06-23,Reddit,request method converting eth wallet,3494.48,3519.43,3408.0,3418.34,4084.72521579
+175,"['sec', 'end', 'ethereum', '2.0', 'investigation']",2024-06-23,Reddit,sec end ethereum investigation,3494.48,3519.43,3408.0,3418.34,4084.72521579
+176,"['exchange', 'cost', 'question']",2024-06-24,Reddit,exchange cost question,3418.35,3429.73,3230.0,3350.33,18971.64087155
+177,"['ethcc', '2024', 'side', 'event']",2024-06-24,Reddit,ethcc side event,3418.35,3429.73,3230.0,3350.33,18971.64087155
+178,"['difference', 'trading', 'eth', 'network', 'others']",2024-06-24,Reddit,difference trading eth network others,3418.35,3429.73,3230.0,3350.33,18971.64087155
+179,"['react', 'hook', 'detecting', 'specific', 'wallet', 'extension', '(', 'eg', '.', 'metamask', ')', 'installed', 'user', ""'s"", 'browser', '.']",2024-06-24,Reddit,react hook detecting specific wallet extension metamask installed user browser,3418.35,3429.73,3230.0,3350.33,18971.64087155
+180,"['stephane', 'gosselin', ':', 'onebalance', ',', 'credible', 'account', 'credible', 'commitment']",2024-06-24,Reddit,stephane gosselin onebalance credible account credible commitment,3418.35,3429.73,3230.0,3350.33,18971.64087155
+181,"['defi', 'tradfi']",2024-06-25,Reddit,defi tradfi,3350.82,3426.91,3334.93,3394.93,8349.80348916
+182,"['moving', 'ethereum', 'kraken', 'bitbox02/trezor', 'safe', '3']",2024-06-25,Reddit,moving ethereum kraken bitbox trezor safe,3350.82,3426.91,3334.93,3394.93,8349.80348916
+183,"['layer', '1', '2', ""'s"", '.', '?']",2024-06-25,Reddit,layer,3350.82,3426.91,3334.93,3394.93,8349.80348916
+184,"['good', 'trading', 'app', 'uniswap']",2024-06-25,Reddit,good trading app uniswap,3350.82,3426.91,3334.93,3394.93,8349.80348916
+185,"['aleph', 'zero', 'evm', 'zkos', ':', 'building', 'privacy-as-a-service', 'web3']",2024-06-25,Reddit,aleph zero evm zkos building privacy service web,3350.82,3426.91,3334.93,3394.93,8349.80348916
+186,"['crypto', 'staking', ',', 'work', 'service', 'provider']",2024-06-26,Reddit,crypto staking work service provider,3394.93,3424.85,3328.14,3367.66,9064.78574042
+187,"['watch', 'next-gen', 'vm', 'race', '?']",2024-06-26,Reddit,watch next gen race,3394.93,3424.85,3328.14,3367.66,9064.78574042
+188,"['semantic', 'abi', ':', 'open', 'source', 'library', 'easier', 'decoding', 'analytics', 'using', 'annotation', 'abi', 'instead', 'bunch', 'sql', '.']",2024-06-26,Reddit,semantic abi open source library easier decoding analytics using annotation abi instead bunch sql,3394.93,3424.85,3328.14,3367.66,9064.78574042
+189,"['recent', 'slashing', 'incident', 'ethereum', 'mainnet']",2024-06-27,Reddit,recent slashing incident ethereum mainnet,3367.67,3470.72,3362.0,3445.39,12731.92628949
+190,"['build', 'sniping', 'bot', 'ethers-kt', ':', 'step-by-step', 'guide']",2024-06-27,Reddit,build sniping bot ether step step guide,3367.67,3470.72,3362.0,3445.39,12731.92628949
+191,"['built', 'web3', 'interface', 'builder']",2024-06-27,Reddit,built web interface builder,3367.67,3470.72,3362.0,3445.39,12731.92628949
+192,"['ethereum', 'supply', 'inflation', 'continues', ':', '73', 'day', 'counting']",2024-06-27,Reddit,ethereum supply inflation continues day counting,3367.67,3470.72,3362.0,3445.39,12731.92628949
+193,"['something', 'sinister', 'going']",2024-06-28,Reddit,something sinister going,3445.4,3482.0,3362.0,3374.22,8524.46131393
+194,"['concerned', 'privacy', 'onchain', 'consumer', '?']",2024-06-28,Reddit,concerned privacy onchain consumer,3445.4,3482.0,3362.0,3374.22,8524.46131393
+195,"['zksharding', 'ethereum']",2024-06-28,Reddit,zksharding ethereum,3445.4,3482.0,3362.0,3374.22,8524.46131393
+196,"['created', 'simple', 'use', 'javascript', 'erc', 'token', 'library']",2024-06-29,Reddit,created simple use javascript erc token library,3374.23,3400.0,3366.7,3372.93,2834.96876985
+197,"['staking', 'smart', 'contract', 'tool', '?']",2024-06-29,Reddit,staking smart contract tool,3374.23,3400.0,3366.7,3372.93,2834.96876985
+198,"['optimism', 'account', 'received', 'token', '``', 'nbl', ""''""]",2024-06-30,Reddit,optimism account received token nbl,3372.93,3451.84,3350.0,3432.23,4020.66676248
+199,"['hardhat', ',', 'truffle', '...']",2024-06-30,Reddit,hardhat truffle,3372.93,3451.84,3350.0,3432.23,4020.66676248
+200,"['need', 'successfully', 'build', 'web3', '?']",2024-06-30,Reddit,need successfully build web,3372.93,3451.84,3350.0,3432.23,4020.66676248
+201,"['ethereum', '(', 'eth', ')', 'trading', '4.1', '%', 'last', 'week']",2024-07-01,americanbankingnews,ethereum eth trading last week,3432.23,3516.66,3422.08,3438.36,9122.53113764
+202,"['ethereum', 'name', 'service', '(', 'en', ')', '24-hour', 'volume', 'reach', '$', '324.57', 'million']",2024-07-01,americanbankingnews,ethereum name service hour volume reach million,3432.23,3516.66,3422.08,3438.36,9122.53113764
+203,"['ethereum', 'classic', '(', 'etc', ')', 'price', 'hit', '$', '23.58', 'major', 'exchange']",2024-07-01,americanbankingnews,ethereum classic etc price hit major exchange,3432.23,3516.66,3422.08,3438.36,9122.53113764
+204,"['rocket', 'pool', '—', 'protocol', 'dao', 'governance']",2024-07-01,Reddit,rocket pool protocol dao governance,3432.23,3516.66,3422.08,3438.36,9122.53113764
+205,"['right', 'track', '?', '?']",2024-07-01,Reddit,right track,3432.23,3516.66,3422.08,3438.36,9122.53113764
+206,"['secure', 'restaking', '?']",2024-07-01,Reddit,secure restaking,3432.23,3516.66,3422.08,3438.36,9122.53113764
+207,"['farcaster', 'simplifies', 'crypto', 'transaction', 'using', 'usdc', 'stablecoins']",2024-07-01,appolicious,farcaster simplifies crypto transaction using usdc stablecoins,3432.23,3516.66,3422.08,3438.36,9122.53113764
+208,"['nft', 'auction', 'raise', 'usd', '6,000', 'tiger', 'conservation']",2024-07-02,KuenselOnline.com,nft auction raise usd tiger conservation,3438.32,3458.72,3398.39,3415.81,6470.74606226
+209,"['search', 'eth', 'cc', 'ticket']",2024-07-02,Reddit,search eth ticket,3438.32,3458.72,3398.39,3415.81,6470.74606226
+210,"['bitcoin', ',', 'ether', 'et', 'autres', 'cryptoactifs', ':', 'un', 'eldorado', 'numérique', 'ou', 'une', 'illusion', 'éphémère', '?']",2024-07-02,mwcnews,bitcoin ether autres cryptoactifs eldorado numérique une illusion éphémère,3438.32,3458.72,3398.39,3415.81,6470.74606226
+211,"['gnosis', 'safe', 'removed', 'log', 'google']",2024-07-02,Reddit,gnosis safe removed log google,3438.32,3458.72,3398.39,3415.81,6470.74606226
+212,"['ethereum', 'price', 'reach', '$', '3,402.70', 'exchange', '(', 'eth', ')']",2024-07-02,americanbankingnews,ethereum price reach exchange eth,3438.32,3458.72,3398.39,3415.81,6470.74606226
+213,"['ethereum', 'etf', ':', 'key', 'moment']",2024-07-02,Reddit,ethereum etf key moment,3438.32,3458.72,3398.39,3415.81,6470.74606226
+214,"['wallet', 'track', 'staked', 'eth']",2024-07-02,Reddit,wallet track staked eth,3438.32,3458.72,3398.39,3415.81,6470.74606226
+215,"['need', 'advice', 'swapping', 'xmr', 'monerium', 'eure']",2024-07-02,Reddit,need advice swapping xmr monerium eure,3438.32,3458.72,3398.39,3415.81,6470.74606226
+216,"['fastbridge', '?']",2024-07-02,Reddit,fastbridge,3438.32,3458.72,3398.39,3415.81,6470.74606226
+217,"['vitalik', ':', 'epoch', 'slot', 'way', ',', 'way', 'give', 'ethereum', 'user', 'faster', 'transaction', 'confirmation', 'time']",2024-07-02,Reddit,vitalik epoch slot way way give ethereum user faster transaction confirmation time,3438.32,3458.72,3398.39,3415.81,6470.74606226
+218,"['ethereum', 'earns', '2x', 'revenue', 'chain', '2.7b', 'usd', 'haul']",2024-07-03,Reddit,ethereum earns revenue chain usd haul,3415.81,3426.49,3250.59,3292.88,11308.8258557
+219,"['token', 'vs.', 'account', ',', 'web2', 'v', 'web3']",2024-07-03,Reddit,token account web web,3415.81,3426.49,3250.59,3292.88,11308.8258557
+220,"['``', 'unexpected', 'trie', 'node', ""''"", 'error', 'geth', 'log', 'sync']",2024-07-03,Reddit,unexpected trie node error geth log sync,3415.81,3426.49,3250.59,3292.88,11308.8258557
+221,"['vinay', 'gupta', '(', 'mattereum', ',', 'formerly', 'ef', ')', 'mario', 'crypto', 'space', ',', 'talking', 'og', 'ethereum', ',', 'law', ',', 'real', 'world', 'asset', ',', 'problem', 'american', 'token', ',', 'money', 'really', 'ethereum', 'long', 'term', '.']",2024-07-03,Reddit,vinay gupta mattereum formerly mario crypto space talking ethereum law real world asset problem american token money really ethereum long term,3415.81,3426.49,3250.59,3292.88,11308.8258557
+222,"['ethereum', 'name', 'service', '(', 'en', ')', 'top', '24', 'hour', 'volume', '$', '198.95', 'million']",2024-07-03,americanbankingnews,ethereum name service top hour volume million,3415.81,3426.49,3250.59,3292.88,11308.8258557
+223,"['panarchy', 'system', 'proof-of-unique-human', ',', 'people-vote', 'nakamoto', 'consensus', 'ubi', ',', 'accepting', 'citizen', '...']",2024-07-03,Reddit,panarchy system proof unique human people vote nakamoto consensus ubi accepting citizen,3415.81,3426.49,3250.59,3292.88,11308.8258557
+224,"['low', 'power', 'hardware/software', 'recommendation', 'archive', 'node']",2024-07-03,Reddit,low power hardware software recommendation archive node,3415.81,3426.49,3250.59,3292.88,11308.8258557
+225,"['ethereum', 'name', 'service', 'trading', '0.8', '%', 'lower', 'week', '(', 'en', ')']",2024-07-04,americanbankingnews,ethereum name service trading lower week,3292.89,3307.71,3052.75,3057.47,13675.36775548
+226,"['bitcoin', 'likely', 'fall', '$', '51.5k', 'rise', '$', '65.8k']",2024-07-04,actionforex,bitcoin likely fall rise,3292.89,3307.71,3052.75,3057.47,13675.36775548
+227,"['ethereum', 'classic', '(', 'etc', ')', 'price', 'reach', '$', '21.69']",2024-07-04,americanbankingnews,ethereum classic etc price reach,3292.89,3307.71,3052.75,3057.47,13675.36775548
+228,"['anyone', 're-selling', 'ethcc', 'ticket', '?']",2024-07-04,Reddit,anyone selling ethcc ticket,3292.89,3307.71,3052.75,3057.47,13675.36775548
+229,"['top', '10', 'side', 'event', 'ethcc', '2024', 'know']",2024-07-04,Reddit,top side event ethcc know,3292.89,3307.71,3052.75,3057.47,13675.36775548
+230,"['wen', 'spot', 'eth', 'etf', '?', '’', '–', 'exec', 'predicted', 'date', 'july', '15th']",2024-07-04,Reddit,wen spot eth etf exec predicted date july,3292.89,3307.71,3052.75,3057.47,13675.36775548
+231,"['full', 'stack', 'blockchain', 'developer', '.', '[', 'hire', ']']",2024-07-04,Reddit,full stack blockchain developer hire,3292.89,3307.71,3052.75,3057.47,13675.36775548
+232,"['etf', 'ethereum', 'spot', ':', 'approval', 'summer', '?', '-', 'crypto', 'recap']",2024-07-04,4-traders,etf ethereum spot approval summer crypto recap,3292.89,3307.71,3052.75,3057.47,13675.36775548
+233,"['grayscale', 'ethereum', 'classic', 'trust', '(', 'etc', ')', '(', 'otcmkts', ':', 'etcg', ')', 'short', 'interest', 'update']",2024-07-04,americanbankingnews,grayscale ethereum classic trust etc otcmkts etcg short interest update,3292.89,3307.71,3052.75,3057.47,13675.36775548
+234,"['ethereum', 'classic', 'reach', '1-day', 'volume', '$', '335.36', 'million', '(', 'etc', ')']",2024-07-05,americanbankingnews,ethereum classic reach day volume million etc,3057.57,3105.65,2811.35,2981.95,28134.04759712
+235,"['ethereum', 'trader', 'turn', 'bearish', 'eth', 'price', 'dip', '$', '3k']",2024-07-05,theoptionsinsider,ethereum trader turn bearish eth price dip,3057.57,3105.65,2811.35,2981.95,28134.04759712
+236,"['saito', 'network', 'support', 'free', 'instant', 'eth', 'transaction']",2024-07-05,Reddit,saito network support free instant eth transaction,3057.57,3105.65,2811.35,2981.95,28134.04759712
+237,"['peepaneip-7549', ':', 'move', 'committee', 'index', 'outside', 'attestation', 'dapplion']",2024-07-05,Reddit,peepaneip move committee index outside attestation dapplion,3057.57,3105.65,2811.35,2981.95,28134.04759712
+238,"['random', 'eth', 'showed', 'wallet', '.']",2024-07-05,Reddit,random eth showed wallet,3057.57,3105.65,2811.35,2981.95,28134.04759712
+239,"['ethereum', 'fall', '10', '%', 'bearish', 'trade']",2024-07-05,Investing.com | Stock Market Quotes &amp; Financial News,ethereum fall bearish trade,3057.57,3105.65,2811.35,2981.95,28134.04759712
+240,"['grayscale®', 'digital', 'large', 'cap', 'fund', ',', 'grayscale®', 'defi', 'fund', ',', 'grayscale®', 'smart', 'contract', 'platform', 'ex-ethereum', 'fund', 'announce', 'rebalancing', 'fund', 'second', 'quarter', '2024']",2024-07-05,4-traders,grayscale digital large cap fund grayscale defi fund grayscale smart contract platform ethereum fund announce rebalancing fund second quarter,3057.57,3105.65,2811.35,2981.95,28134.04759712
+241,"['grayscale', '®', 'digital', 'large', 'cap', 'fund', ',', 'grayscale', '®', 'defi', 'fund', ',', 'grayscale', '®', 'smart', 'contract', 'platform', 'ex-ethereum', 'fund', 'announce', 'rebalancing', 'fund', 'second', 'quarter', '2024']",2024-07-05,Investing.com | Stock Market Quotes &amp; Financial News,grayscale digital large cap fund grayscale defi fund grayscale smart contract platform ethereum fund announce rebalancing fund second quarter,3057.57,3105.65,2811.35,2981.95,28134.04759712
+242,"['ethereum', 'name', 'service', 'market', 'cap', 'hit', '$', '753.54', 'million', '(', 'en', ')']",2024-07-06,americanbankingnews,ethereum name service market cap hit million,2981.79,3080.02,2956.05,3068.53,5136.01509979
+243,"['ethereum', 'achieves', 'market', 'capitalization', '$', '361.70', 'billion', '(', 'eth', ')']",2024-07-06,americanbankingnews,ethereum achieves market capitalization billion eth,2981.79,3080.02,2956.05,3068.53,5136.01509979
+244,"['got', 'understanding', 'ethereum', ""'s"", 'strength', 'understood', '?']",2024-07-06,Reddit,got understanding ethereum strength understood,2981.79,3080.02,2956.05,3068.53,5136.01509979
+245,"['🍄', 'stereum', 'ethereum', 'node', 'setup', '&', 'manager', '2.2.0', '-', 'heartcore']",2024-07-06,Reddit,stereum ethereum node setup manager heartcore,2981.79,3080.02,2956.05,3068.53,5136.01509979
+246,"['ethereum', 'classic', '(', 'etc', ')', '24-hour', 'trading', 'volume', 'reach', '$', '121.91', 'million']",2024-07-07,americanbankingnews,ethereum classic etc hour trading volume reach million,3067.56,3072.65,2922.08,2929.7,8410.58025838
+247,"['eth', 'token', 'burner', '?']",2024-07-07,Reddit,eth token burner,3067.56,3072.65,2922.08,2929.7,8410.58025838
+248,"['take', 'people', ',', 'tech', ',', 'modularity', 'succeed', '|', 'opinion']",2024-07-07,Reddit,take people tech modularity succeed opinion,3067.56,3072.65,2922.08,2929.7,8410.58025838
+249,"['guy', ',', 'think', 'wallet', 'got', 'hacked', '?', 'erc20', 'usdt', 'transaction', ',', 'freaking']",2024-07-07,Reddit,guy think wallet got hacked erc usdt transaction freaking,3067.56,3072.65,2922.08,2929.7,8410.58025838
+250,"['learning', 'create', 'bridge', 'stablecoin', 'linea', ',', 'anyone', 'know', '?']",2024-07-07,Reddit,learning create bridge stablecoin linea anyone know,3067.56,3072.65,2922.08,2929.7,8410.58025838
+251,"['peepaneip', '#', '132', ':', 'eip-7685', ':', 'general', 'purpose', 'execution', 'layer', 'request', 'matt', 'garnett']",2024-07-08,Reddit,peepaneip eip general purpose execution layer request matt garnett,2929.71,3093.18,2825.01,3017.22,11056.87750181
+252,"['golem', 'network', 'sell', '$', '114.54m', 'eth', '37', 'day']",2024-07-08,Reddit,golem network sell eth day,2929.71,3093.18,2825.01,3017.22,11056.87750181
+253,"['address', 'indexing']",2024-07-08,Reddit,address indexing,2929.71,3093.18,2825.01,3017.22,11056.87750181
+254,"['meet', 'zama', 'team', 'future', 'blockchain', 'privacy', 'ethcc']",2024-07-08,Reddit,meet zama team future blockchain privacy ethcc,2929.71,3093.18,2825.01,3017.22,11056.87750181
+255,"['ethereum', '(', 'ethusd', ')', 'incomplete', 'sequence', 'calling', 'decline']",2024-07-08,actionforex,ethereum ethusd incomplete sequence calling decline,2929.71,3093.18,2825.01,3017.22,11056.87750181
+256,"['blockchain', 'beyond', 'cryptocurrencies', ':', 'real-world', 'application']",2024-07-08,Insights Success,blockchain beyond cryptocurrencies real world application,2929.71,3093.18,2825.01,3017.22,11056.87750181
+257,"['web3', 'p2p', 'gaming', 'saito', 'ethereum']",2024-07-08,Reddit,web gaming saito ethereum,2929.71,3093.18,2825.01,3017.22,11056.87750181
+258,"['ethereum', 'top', 'one', 'day', 'volume', '$', '18.42', 'billion', '(', 'eth', ')']",2024-07-08,americanbankingnews,ethereum top one day volume billion eth,2929.71,3093.18,2825.01,3017.22,11056.87750181
+259,"['ethereum', 'name', 'service', '1-day', 'trading', 'volume', 'top', '$', '214.75', 'million', '(', 'en', ')']",2024-07-08,americanbankingnews,ethereum name service day trading volume top million,2929.71,3093.18,2825.01,3017.22,11056.87750181
+260,"['spot', 'ether', 'etf', 'coming', ',', 'sec', 'ruling', 'maybe', 'soon', 'week', 'next']",2024-07-08,Cnbc | World Business News Leader,spot ether etf coming sec ruling maybe soon week next,2929.71,3093.18,2825.01,3017.22,11056.87750181
+261,"['grayscale', 'investments®', 'announces', 'record', 'date', 'ex-distribution', 'date', 'grayscale', 'ethereum', 'trust', '(', 'ticker', ':', 'ethe', ')', 'shareholder']",2024-07-08,4-traders,grayscale investment announces record date distribution date grayscale ethereum trust ticker ethe shareholder,2929.71,3093.18,2825.01,3017.22,11056.87750181
+262,"['scribe', '?', 'novel', 'oracle', 'chronicle']",2024-07-08,Reddit,scribe novel oracle chronicle,2929.71,3093.18,2825.01,3017.22,11056.87750181
+263,"['ethereum', 'classic', '(', 'etc', ')', 'trading', '14.9', '%', 'week']",2024-07-08,americanbankingnews,ethereum classic etc trading week,2929.71,3093.18,2825.01,3017.22,11056.87750181
+264,"['polkadot', 'lead', 'way', 'large', 'cryptocurrencies', 'post', 'increase']",2024-07-09,4-traders,polkadot lead way large cryptocurrencies post increase,3017.22,3110.84,3004.88,3066.5,7492.21485044
+265,"['ethereum', 'price', 'top', '$', '3,050.30', 'major', 'exchange', '(', 'eth', ')']",2024-07-09,americanbankingnews,ethereum price top major exchange eth,3017.22,3110.84,3004.88,3066.5,7492.21485044
+266,"['mev', 'resistant', 'dynamic', 'pricing', 'auction', 'execution', 'proposal', 'right']",2024-07-09,Reddit,mev resistant dynamic pricing auction execution proposal right,3017.22,3110.84,3004.88,3066.5,7492.21485044
+267,"['metamask', 'wallet', 'got', 'drained']",2024-07-09,Reddit,metamask wallet got drained,3017.22,3110.84,3004.88,3066.5,7492.21485044
+268,"['fun', 'game', 'try', 'earn', '0.001', 'eth', '?']",2024-07-09,Reddit,fun game try earn eth,3017.22,3110.84,3004.88,3066.5,7492.21485044
+269,"['ethereum', 'launch', '$', '2m', '‘', 'attackathon', '’', 'security', 'audit']",2024-07-09,readwriteweb,ethereum launch attackathon security audit,3017.22,3110.84,3004.88,3066.5,7492.21485044
+270,"['ethereum', 'founder', 'vitalik', 'praised', '“', 'maximum', 'humility', ',', '”', 'billionaire', 'storm', 'crypto', 'conference']",2024-07-10,Reddit,ethereum founder vitalik praised maximum humility billionaire storm crypto conference,3066.5,3149.45,3024.37,3102.21,8031.91731765
+271,"['golem', 'factory', 'stake', '40,000', 'eth']",2024-07-10,Reddit,golem factory stake eth,3066.5,3149.45,3024.37,3102.21,8031.91731765
+272,"['smart', 'consistency', '-', 'solving', 'block', 'mempool', 'inconsistency']",2024-07-10,Reddit,smart consistency solving block mempool inconsistency,3066.5,3149.45,3024.37,3102.21,8031.91731765
+273,"['predict/bet', 'u', 'election', 'eth', 'end', 'end']",2024-07-10,Reddit,predict bet election eth end end,3066.5,3149.45,3024.37,3102.21,8031.91731765
+274,"['good', 'book', 'read', 'ethereum', '?']",2024-07-10,Reddit,good book read ethereum,3066.5,3149.45,3024.37,3102.21,8031.91731765
+275,"['make', 'diffrence', 'keep', 'eth', 'base', 'chain', 'instead', 'eth', 'one', '?']",2024-07-10,Reddit,make diffrence keep eth base chain instead eth one,3066.5,3149.45,3024.37,3102.21,8031.91731765
+276,"['wonderfi', 'launch', 'strategic', 'bitcoin', 'ethereum', 'buying', 'plan', 'diversify', 'treasury', 'asset']",2024-07-10,4-traders,wonderfi launch strategic bitcoin ethereum buying plan diversify treasury asset,3066.5,3149.45,3024.37,3102.21,8031.91731765
+277,"['bitcoin', 'strives', 'recovery', ':', 'overcome', 'major', 'roadblock', '?']",2024-07-10,actionforex,bitcoin strives recovery overcome major roadblock,3066.5,3149.45,3024.37,3102.21,8031.91731765
+278,"['ethereum', 'trading', '6', '%', 'last', 'week', '(', 'eth', ')']",2024-07-10,americanbankingnews,ethereum trading last week eth,3066.5,3149.45,3024.37,3102.21,8031.91731765
+279,"['eth', 'v', 'sol', 'meme', 'coin', '?']",2024-07-11,Reddit,eth sol meme coin,3102.21,3213.77,3055.66,3098.64,10765.89669362
+280,"['gen', 'z', 'favor', 'digital', 'asset', 'gold', 'uncertain', 'time']",2024-07-11,Reddit,gen favor digital asset gold uncertain time,3102.21,3213.77,3055.66,3098.64,10765.89669362
+281,"['best', 'trusted', 'place', 'buy', 'eth', 'base', 'chain', '?']",2024-07-11,Reddit,best trusted place buy eth base chain,3102.21,3213.77,3055.66,3098.64,10765.89669362
+282,"['first', 'beta', 'release', 'shutterized', 'gnosis', 'chain', 'live', '!']",2024-07-11,Reddit,first beta release shutterized gnosis chain live,3102.21,3213.77,3055.66,3098.64,10765.89669362
+283,"['lido', 'community', 'staking', 'module', '(', 'csm', ')', 'testnet', 'live', 'everyone', ',', 'running', 'validator', '2', 'eth', '.']",2024-07-11,Reddit,lido community staking module csm testnet live everyone running validator eth,3102.21,3213.77,3055.66,3098.64,10765.89669362
+284,"['ethereum', 'staking', 'race', ':', 'third', 'eth', 'staked']",2024-07-11,Reddit,ethereum staking race third eth staked,3102.21,3213.77,3055.66,3098.64,10765.89669362
+285,"['evm', 'wallet', 'critical', 'impact', 'crypto', 'space', '(', 'scam', ',', 'market', 'manipulation', ',', 'investor', ',', 'individual', ')', '’', 'found', 'identity', 'behind', '?']",2024-07-12,Reddit,evm wallet critical impact crypto space scam market manipulation investor individual found identity behind,3098.64,3155.44,3048.46,3133.65,8803.82690924
+286,"['danksharding', '(', 'blob', ')', 'help', 'zk-rollups', '?']",2024-07-12,Reddit,danksharding blob help rollups,3098.64,3155.44,3048.46,3133.65,8803.82690924
+287,"['article', ':', 'using', 'polynomial', 'commitment', 'eip-4844', 'kzg', 'reference', 'libs']",2024-07-12,Reddit,article using polynomial commitment eip kzg reference libs,3098.64,3155.44,3048.46,3133.65,8803.82690924
+288,"['doughfina', 'hacked', '1.8', 'million', 'dollar']",2024-07-12,Reddit,doughfina hacked million dollar,3098.64,3155.44,3048.46,3133.65,8803.82690924
+289,"['ethereum', 'name', 'service', 'hit', '24', 'hour', 'volume', '$', '167.91', 'million', '(', 'en', ')']",2024-07-12,americanbankingnews,ethereum name service hit hour volume million,3098.64,3155.44,3048.46,3133.65,8803.82690924
+290,"['ethereum', 'classic', '(', 'etc', ')', 'achieves', 'market', 'capitalization', '$', '3.09', 'billion']",2024-07-12,americanbankingnews,ethereum classic etc achieves market capitalization billion,3098.64,3155.44,3048.46,3133.65,8803.82690924
+291,"['problem', 'combining', 'contract', 'fund', 'across', 'multiple', 'l2s']",2024-07-12,Reddit,problem combining contract fund across multiple,3098.64,3155.44,3048.46,3133.65,8803.82690924
+292,"['sealed', 'execution', 'auction']",2024-07-13,Reddit,sealed execution auction,3133.83,3200.1,3115.0,3177.16,5489.94202839
+293,"['ethereum', 'classic', 'one', 'day', 'trading', 'volume', 'top', '$', '152.87', 'million', '(', 'etc', ')']",2024-07-14,americanbankingnews,ethereum classic one day trading volume top million etc,3176.66,3266.29,3166.31,3246.69,9525.15863338
+294,"['best', 'place', 'get', 'live', 'new']",2024-07-14,Reddit,best place get live new,3176.66,3266.29,3166.31,3246.69,9525.15863338
+295,"['ethereum', 'name', 'service', '24', 'hour', 'trading', 'volume', 'hit', '$', '102.06', 'million', '(', 'en', ')']",2024-07-14,americanbankingnews,ethereum name service hour trading volume hit million,3176.66,3266.29,3166.31,3246.69,9525.15863338
+296,"['ether', 'etf', 'issuer', 'must', 'still', 'file', 'final', 's-1', 'document', ',', 'industry', '&', '#', '8230', ';']",2024-07-15,4-traders,ether etf issuer must still file final document industry,3246.35,3493.29,3235.03,3486.35,17811.86230073
+297,"['update', ':', 'scammed', 'uniswap', 'slippage', 'mev', 'bot', '-', 'fund', 'going', 'suspicious', 'address']",2024-07-15,Reddit,update scammed uniswap slippage mev bot fund going suspicious address,3246.35,3493.29,3235.03,3486.35,17811.86230073
+298,"['ethereum', 'name', 'service', '(', 'en', ')', 'price', 'hit', '$', '27.33', 'top', 'exchange']",2024-07-15,americanbankingnews,ethereum name service price hit top exchange,3246.35,3493.29,3235.03,3486.35,17811.86230073
+299,"['ethereum', 'hit', '24-hour', 'trading', 'volume', '$', '13.73', 'billion', '(', 'eth', ')']",2024-07-15,americanbankingnews,ethereum hit hour trading volume billion eth,3246.35,3493.29,3235.03,3486.35,17811.86230073
+300,"['bitcoin', 'ready', 'new', 'record', 'high', ',', 'ethereum', 'following']",2024-07-15,actionforex,bitcoin ready new record high ethereum following,3246.35,3493.29,3235.03,3486.35,17811.86230073
+301,"['staking', 'eth', 'question']",2024-07-15,Reddit,staking eth question,3246.35,3493.29,3235.03,3486.35,17811.86230073
+302,"['ethereum', 'classic', 'top', '24-hour', 'trading', 'volume', '$', '133.67', 'million', '(', 'etc', ')']",2024-07-15,americanbankingnews,ethereum classic top hour trading volume million etc,3246.35,3493.29,3235.03,3486.35,17811.86230073
+303,"['slashing', 'liquid', 'staking']",2024-07-16,Reddit,slashing liquid staking,3486.38,3497.51,3350.0,3442.5,13355.43088788
+304,"['zero', 'knowledge', 'proof', 'fund']",2024-07-16,Reddit,zero knowledge proof fund,3486.38,3497.51,3350.0,3442.5,13355.43088788
+305,"['meme', 'coin', 'creation', ':', 'learned']",2024-07-16,Reddit,meme coin creation learned,3486.38,3497.51,3350.0,3442.5,13355.43088788
+306,"['state', 'zk', '-', 'q2', 'tl', ';', 'dr']",2024-07-16,Reddit,state,3486.38,3497.51,3350.0,3442.5,13355.43088788
+307,"['echidna', '2.2.4', 'brings', 'host', 'improvement', 'fuzzing', 'speed', 'user', 'experience', '!']",2024-07-16,Reddit,echidna brings host improvement fuzzing speed user experience,3486.38,3497.51,3350.0,3442.5,13355.43088788
+308,"['explain', 'business', 'model', 'l2', 'company']",2024-07-16,Reddit,explain business model company,3486.38,3497.51,3350.0,3442.5,13355.43088788
+309,"['li.fi', 'drained', '10', 'million', 'dollar']",2024-07-16,Reddit,drained million dollar,3486.38,3497.51,3350.0,3442.5,13355.43088788
+310,"['know', 'rugg', 'pull', 'happen']",2024-07-16,Reddit,know rugg pull happen,3486.38,3497.51,3350.0,3442.5,13355.43088788
+311,"['wonderfi', 'provides', 'update', 'bitcoin', 'ethereum', 'treasury', 'program']",2024-07-16,4-traders,wonderfi provides update bitcoin ethereum treasury program,3486.38,3497.51,3350.0,3442.5,13355.43088788
+312,"['ethereum', '(', 'eth', ')', 'performs', 'fundamental', '$', '3,500', 'breakthrough', ',', 'bitcoin', '(', 'btc', ')', 'easily', 'reach', '$', '65,000', ',', 'xrp', 'finally', 'break', 'major', 'resistance', '?']",2024-07-16,Investing.com | Stock Market Quotes &amp; Financial News,ethereum eth performs fundamental breakthrough bitcoin btc easily reach xrp finally break major resistance,3486.38,3497.51,3350.0,3442.5,13355.43088788
+313,"['ethereum', 'classic', 'price', 'hit', '$', '23.25', 'exchange', '(', 'etc', ')']",2024-07-16,americanbankingnews,ethereum classic price hit exchange etc,3486.38,3497.51,3350.0,3442.5,13355.43088788
+314,"['bitcoin', 'ethereum', 'test', '50-day', 'ma']",2024-07-16,actionforex,bitcoin ethereum test day,3486.38,3497.51,3350.0,3442.5,13355.43088788
+315,"['ethereum', 'co-founder', 'warns', 'voting', ""'pro-crypto"", ',', ""'"", 'day', 'a16z', 'founder', 'support', 'trump']",2024-07-17,CNBC,ethereum founder warns voting pro crypto day founder support trump,3442.99,3516.04,3376.5,3387.54,10507.35176392
+316,"['blockchain', 'network', 'best', 'fantasy', 'sport', 'betting', 'dapp', '?']",2024-07-17,Reddit,blockchain network best fantasy sport betting dapp,3442.99,3516.04,3376.5,3387.54,10507.35176392
+317,"['``', 'connect', 'wallet', ""''"", 'without', 'giving', 'private', 'key', '?']",2024-07-17,Reddit,connect wallet without giving private key,3442.99,3516.04,3376.5,3387.54,10507.35176392
+318,"['major', 'company', 'actually', 'use', 'ethereum', 'anything', 'useful', '?']",2024-07-17,Reddit,major company actually use ethereum anything useful,3442.99,3516.04,3376.5,3387.54,10507.35176392
+319,"['🍄', 'stereum', 'ethereum', 'node', 'setup', '&', 'manager', '2.2.1']",2024-07-17,Reddit,stereum ethereum node setup manager,3442.99,3516.04,3376.5,3387.54,10507.35176392
+320,"['based', 'rollups', ':', 'shared', 'sequencer', '+', 'preconfirmations', ',', 'future', '?']",2024-07-17,Reddit,based rollups shared sequencer preconfirmations future,3442.99,3516.04,3376.5,3387.54,10507.35176392
+321,"['found', 'sai', 'metamask', '.', 'still', 'convert', '?']",2024-07-17,Reddit,found sai metamask still convert,3442.99,3516.04,3376.5,3387.54,10507.35176392
+322,"['crypto', 'market', 'reversal', 'save', 'xrp', '&', 'litecoin', 'collapse']",2024-07-17,actionforex,crypto market reversal save xrp litecoin collapse,3442.99,3516.04,3376.5,3387.54,10507.35176392
+323,"['ethereum', '(', 'eth', ')', 'price', 'reach', '$', '3,456.91', 'top', 'exchange']",2024-07-17,americanbankingnews,ethereum eth price reach top exchange,3442.99,3516.04,3376.5,3387.54,10507.35176392
+324,"['grayscale', 'investments®', 'launch', 'new', 'decentralized', 'ai', 'fund']",2024-07-17,4-traders,grayscale investment launch new decentralized fund,3442.99,3516.04,3376.5,3387.54,10507.35176392
+325,"['grayscale', 'investments®', 'provides', 'update', 'related', 'upcoming', 'corporate', 'action', 'grayscale', 'ethereum', 'trust', '(', 'ticker', ':', 'ethe', ')', 'shareholder']",2024-07-17,4-traders,grayscale investment provides update related upcoming corporate action grayscale ethereum trust ticker ethe shareholder,3442.99,3516.04,3376.5,3387.54,10507.35176392
+326,"['running', 'archive', 'full', 'node', 'crucial', 'blockchain', 'developer']",2024-07-17,Reddit,running archive full node crucial blockchain developer,3442.99,3516.04,3376.5,3387.54,10507.35176392
+327,"['grayscale', 'investment', '®', 'provides', 'update', 'related', 'upcoming', 'corporate', 'action', 'grayscale', 'ethereum', 'trust', '(', 'ticker', ':', 'ethe', ')', 'shareholder']",2024-07-17,Investing.com | Stock Market Quotes &amp; Financial News,grayscale investment provides update related upcoming corporate action grayscale ethereum trust ticker ethe shareholder,3442.99,3516.04,3376.5,3387.54,10507.35176392
+328,"['core', 'devs', 'call', '192', ',', 'summary', 'tim', 'beiko']",2024-07-18,Reddit,core devs call summary tim beiko,3387.46,3487.04,3369.35,3425.49,9556.92147693
+329,"['choosing', 'political', 'allegiance', 'based', '``', 'pro-crypto', ""''""]",2024-07-18,Reddit,choosing political allegiance based pro crypto,3387.46,3487.04,3369.35,3425.49,9556.92147693
+330,"['ethereum', 'still', 'best', 'platform', 'smart', 'contract', 'token', '?']",2024-07-18,Reddit,ethereum still best platform smart contract token,3387.46,3487.04,3369.35,3425.49,9556.92147693
+331,"['wazirxindia', 'hacked', '$', '235', 'million', 'dollar']",2024-07-18,Reddit,wazirxindia hacked million dollar,3387.46,3487.04,3369.35,3425.49,9556.92147693
+332,"['modular', 'security', 'cartesi', 'ethcc2024', 'brussels']",2024-07-18,Reddit,modular security cartesi ethcc brussels,3387.46,3487.04,3369.35,3425.49,9556.92147693
+333,"['ethereum', 'etf', ':', 'buy', 'rumor', ',', 'sell', 'news', '?']",2024-07-18,Investing.com | Stock Market Quotes &amp; Financial News,ethereum etf buy rumor sell news,3387.46,3487.04,3369.35,3425.49,9556.92147693
+334,"['vaneck', 'ethereum', 'strategy', 'etf', '(', 'nysearca', ':', 'efut', ')', 'trading', '1.4', '%']",2024-07-18,americanbankingnews,vaneck ethereum strategy etf nysearca efut trading,3387.46,3487.04,3369.35,3425.49,9556.92147693
+335,"['ethereum', 'name', 'service', '(', 'en', ')', 'trading', '2.8', '%', 'week']",2024-07-19,americanbankingnews,ethereum name service trading week,3425.49,3540.89,3378.0,3505.15,11871.37776295
+336,"['galaxy', 'digital', 'acquires', 'nearly', 'ethereum', 'asset', 'cryptomanufaktur']",2024-07-19,Seeking Alpha,galaxy digital acquires nearly ethereum asset cryptomanufaktur,3425.49,3540.89,3378.0,3505.15,11871.37776295
+337,"['wazirx', 'hacker', 'swap', '$', '150m', 'token', 'ethereum']",2024-07-19,readwriteweb,wazirx hacker swap token ethereum,3425.49,3540.89,3378.0,3505.15,11871.37776295
+338,"['ethereum', 'classic', '(', 'etc', ')', 'trading', '8.8', '%', 'higher', 'last', 'week']",2024-07-19,americanbankingnews,ethereum classic etc trading higher last week,3425.49,3540.89,3378.0,3505.15,11871.37776295
+339,"['rush', 'crypto']",2024-07-19,actionforex,rush crypto,3425.49,3540.89,3378.0,3505.15,11871.37776295
+340,"['peepaneip-2537', ':', 'precompile', 'bls12-381', 'curve', 'operation', 'alex', 'stokes']",2024-07-19,Reddit,peepaneip precompile bls curve operation alex stokes,3425.49,3540.89,3378.0,3505.15,11871.37776295
+341,"['transaction', 'fee', 'mechanism', 'design', '-', 'optimality', 'provably', 'possible']",2024-07-19,Reddit,transaction fee mechanism design optimality provably possible,3425.49,3540.89,3378.0,3505.15,11871.37776295
+342,"['pay', 'learn', 'nfts', 'crypto', '?', 'alt', '.', 'course', 'buy', '?']",2024-07-19,Reddit,pay learn nfts crypto alt course buy,3425.49,3540.89,3378.0,3505.15,11871.37776295
+343,"['best', 'platform', 'staking', 'eth']",2024-07-19,Reddit,best platform staking eth,3425.49,3540.89,3378.0,3505.15,11871.37776295
+344,"['proof', 'stake', 'implementation', '?', '!', '?', '!', '?', '!', '?', '!', '?', '!']",2024-07-19,Reddit,proof stake implementation,3425.49,3540.89,3378.0,3505.15,11871.37776295
+345,"['ethereum', ':', 'price', 'scalability']",2024-07-19,Seeking Alpha,ethereum price scalability,3425.49,3540.89,3378.0,3505.15,11871.37776295
+346,"['grayscale', 'investments®', 'announces', 'record', 'date', 'distribution', 'date', 'grayscale', 'bitcoin', 'trust', '(', 'ticker', ':', 'gbtc', ')', 'shareholder']",2024-07-19,4-traders,grayscale investment announces record date distribution date grayscale bitcoin trust ticker gbtc shareholder,3425.49,3540.89,3378.0,3505.15,11871.37776295
+347,"['infostealer', 'infection', 'result', 'data', 'breach', 'blockchain', 'identity', 'platform', ',', 'fractal', 'id']",2024-07-20,Reddit,infostealer infection result data breach blockchain identity platform fractal,3505.52,3538.73,3482.33,3518.62,4950.85700919
+348,"['ethereum', 'trading', '10.6', '%', 'last', 'week', '(', 'eth', ')']",2024-07-20,americanbankingnews,ethereum trading last week eth,3505.52,3538.73,3482.33,3518.62,4950.85700919
+349,"['solution', 'privacy', 'sanctioned', '?']",2024-07-20,Reddit,solution privacy sanctioned,3505.52,3538.73,3482.33,3518.62,4950.85700919
+350,"['ethereum', 'classic', '(', 'etc', ')', 'price', '6', '%', 'week']",2024-07-21,americanbankingnews,ethereum classic etc price week,3518.01,3545.0,3412.19,3534.56,9450.2688395
+351,"['ethereum', 'name', 'service', 'market', 'cap', 'reach', '$', '854.02', 'million', '(', 'en', ')']",2024-07-21,americanbankingnews,ethereum name service market cap reach million,3518.01,3545.0,3412.19,3534.56,9450.2688395
+352,"['ethereum', '(', 'eth', ')', 'trading', '2.8', '%', 'week']",2024-07-22,americanbankingnews,ethereum eth trading week,3534.57,3563.21,3427.0,3440.38,9559.18997461
+353,"['superstate', 'launch', 'high', 'yield', 'carry', 'fund', 'bitcoin', 'ethereum', 'using', 'token']",2024-07-22,Fortune,superstate launch high yield carry fund bitcoin ethereum using token,3534.57,3563.21,3427.0,3440.38,9559.18997461
+354,"['blackrock', ""'s"", 'ishares', 'ethereum', 'trust', 'etf', 'set', 'launch']",2024-07-22,Investing.com | Stock Market Quotes &amp; Financial News,blackrock ishares ethereum trust etf set launch,3534.57,3563.21,3427.0,3440.38,9559.18997461
+355,"['blackrock', '’', 'ishares', 'ethereum', 'trust', 'etf', 'set', 'launch']",2024-07-22,Reddit,blackrock ishares ethereum trust etf set launch,3534.57,3563.21,3427.0,3440.38,9559.18997461
+356,"['wall', 'street', 'journal', ':', 'sec', 'clear', 'final', 'hurdle', 'ether', 'etf', 'launch', 'tuesday']",2024-07-22,Reddit,wall street journal sec clear final hurdle ether etf launch tuesday,3534.57,3563.21,3427.0,3440.38,9559.18997461
+357,"['bitwise', 'debut', 'ethereum', 'etf', 'nyse']",2024-07-23,betanews,bitwise debut ethereum etf nyse,3441.07,3540.34,3390.5,3480.96,17035.97678868
+358,"['spot', 'ether', 'etf', 'set', 'trade', 'tuesday', '.', '’', 'mean', 'ethereum', 'blockchain']",2024-07-23,CNBC,spot ether etf set trade tuesday mean ethereum blockchain,3441.07,3540.34,3390.5,3480.96,17035.97678868
+359,"['crypto', ':', 'tactical', 'retreat', 'peak']",2024-07-23,actionforex,crypto tactical retreat peak,3441.07,3540.34,3390.5,3480.96,17035.97678868
+360,"['grayscale', 'ethereum', 'mini', 'trust', ':', 'buy', 'big', 'news']",2024-07-23,Seeking Alpha,grayscale ethereum mini trust buy big news,3441.07,3540.34,3390.5,3480.96,17035.97678868
+361,"['wonderfi', 'provides', 'update', 'bitcoin', 'ethereum', 'treasury', 'program', 'initiative']",2024-07-23,Investing.com | Stock Market Quotes &amp; Financial News,wonderfi provides update bitcoin ethereum treasury program initiative,3441.07,3540.34,3390.5,3480.96,17035.97678868
+362,"['invesco', 'galaxy', 'launch', 'invesco', 'galaxy', 'ethereum', 'etf', '(', 'qeth', ')']",2024-07-23,4-traders,invesco galaxy launch invesco galaxy ethereum etf qeth,3441.07,3540.34,3390.5,3480.96,17035.97678868
+363,"['blackrock', ""'s"", 'etha', 'debut', 'nasdaq']",2024-07-23,4-traders,blackrock etha debut nasdaq,3441.07,3540.34,3390.5,3480.96,17035.97678868
+364,"['franklin', 'templeton', 'launch', 'franklin', 'ethereum', 'etf', '(', 'ezet', ')']",2024-07-23,4-traders,franklin templeton launch franklin ethereum etf ezet,3441.07,3540.34,3390.5,3480.96,17035.97678868
+365,"['ethereum', '(', 'eth', ')', 'price', 'top', '$', '3,501.41', 'exchange']",2024-07-23,americanbankingnews,ethereum eth price top exchange,3441.07,3540.34,3390.5,3480.96,17035.97678868
+366,"['snapshot', 'new', 'spot', 'ethereum', 'etf', 'launching', 'today']",2024-07-23,Seeking Alpha,snapshot new spot ethereum etf launching today,3441.07,3540.34,3390.5,3480.96,17035.97678868
+367,"['fidelity', 'ethereum', 'fund', ':', 'personal', 'pick', 'eth', 'etf']",2024-07-23,Seeking Alpha,fidelity ethereum fund personal pick eth etf,3441.07,3540.34,3390.5,3480.96,17035.97678868
+368,"['ethereum', ""'s"", 'journey', 'visionary', 'project', 'cornerstone', 'blockchain', 'tech']",2024-07-23,Seeking Alpha,ethereum journey visionary project cornerstone blockchain tech,3441.07,3540.34,3390.5,3480.96,17035.97678868
+369,"['bitcoin', 'vs.', 'ethereum', ':', 'similarity', ',', 'difference', 'consideration']",2024-07-23,Seeking Alpha,bitcoin ethereum similarity difference consideration,3441.07,3540.34,3390.5,3480.96,17035.97678868
+370,"['grayscale', '’', 'spot', 'ether', 'etf', 'launch', 'new', 'york', 'stock', 'exchange']",2024-07-23,theoptionsinsider,grayscale spot ether etf launch new york stock exchange,3441.07,3540.34,3390.5,3480.96,17035.97678868
+371,"['grayscale', 'ethereum', 'mini', 'trust', '(', 'ticker', ':', 'eth', ')', 'grayscale', 'ethereum', 'trust', '(', 'ticker', ':', 'ethe', ')', 'begin', 'trading', 'nyse', 'arca', 'spot', 'ethereum', 'etps']",2024-07-23,4-traders,grayscale ethereum mini trust ticker eth grayscale ethereum trust ticker ethe begin trading nyse arca spot ethereum etps,3441.07,3540.34,3390.5,3480.96,17035.97678868
+372,"['happy', '10th', 'birthday', 'ethereum']",2024-07-23,Reddit,happy birthday ethereum,3441.07,3540.34,3390.5,3480.96,17035.97678868
+373,"['divide', ',', 'conquer', ',', 'collaborate', ':', 'definitive', 'guide', 'modular', 'blockchain', 'stack']",2024-07-23,Reddit,divide conquer collaborate definitive guide modular blockchain stack,3441.07,3540.34,3390.5,3480.96,17035.97678868
+374,"['sell', 'ethe', 'one', 'spot', 'etf', '?']",2024-07-23,Reddit,sell ethe one spot etf,3441.07,3540.34,3390.5,3480.96,17035.97678868
+375,"['coinbase', 'refuse', 'direct', 'fund', 'transfer']",2024-07-23,Reddit,coinbase refuse direct fund transfer,3441.07,3540.34,3390.5,3480.96,17035.97678868
+376,"['grayscale', 'ethereum', 'trust', '(', 'eth', ')', '(', 'otcmkts', ':', 'ethe', ')', 'stock', 'price', '0.9', '%']",2024-07-24,etfdailynews,grayscale ethereum trust eth otcmkts ethe stock price,3480.97,3485.4,3302.0,3336.11,12705.32213049
+377,"['eth', 'etf', 'go', 'live', 'today']",2024-07-24,Reddit,eth etf live today,3480.97,3485.4,3302.0,3336.11,12705.32213049
+378,"['attention', 'developer', ':', 'join', 'cartesi', '+', 'web3clubs', 'residency', 'program', 'nairobi', '!']",2024-07-24,Reddit,attention developer join cartesi webclubs residency program nairobi,3480.97,3485.4,3302.0,3336.11,12705.32213049
+379,"['spot', 'ethereum', 'etf', 'go', 'live', '!']",2024-07-24,countingpips,spot ethereum etf live,3480.97,3485.4,3302.0,3336.11,12705.32213049
+380,"['u', 'spot', 'ether', 'etf', 'see', 'net', 'inflow', '$', '106', 'million', 'first', 'day']",2024-07-24,sports,spot ether etf see net inflow million first day,3480.97,3485.4,3302.0,3336.11,12705.32213049
+381,"['grayscale', 'ethereum', 'trust', ':', 'risk', 'factor', 'form', '8', 'k']",2024-07-24,4-traders,grayscale ethereum trust risk factor form,3480.97,3485.4,3302.0,3336.11,12705.32213049
+382,"['ethusd', 'trade', 'flat', 'etf', 'debut']",2024-07-24,actionforex,ethusd trade flat etf debut,3480.97,3485.4,3302.0,3336.11,12705.32213049
+383,"['sa', 'subscriber', ""'"", 'favorite', 'ethereum', 'etf']",2024-07-24,Seeking Alpha,subscriber favorite ethereum etf,3480.97,3485.4,3302.0,3336.11,12705.32213049
+384,"['elliott', 'wave', 'intraday', 'analysis', ':', 'ethereum', '(', 'ethusd', ')', 'pullback', 'progress']",2024-07-25,actionforex,elliott wave intraday analysis ethereum ethusd pullback progress,3336.11,3340.26,3087.72,3173.35,17307.32391661
+385,"['stock', 'rout', 'undermine', 'image', 'ethereum', 'etf', 'launch']",2024-07-25,actionforex,stock rout undermine image ethereum etf launch,3336.11,3340.26,3087.72,3173.35,17307.32391661
+386,"['u', 'ethereum', 'etf', 'see', 'net', 'outflow', 'second', 'trading', 'day']",2024-07-25,readwriteweb,ethereum etf see net outflow second trading day,3336.11,3340.26,3087.72,3173.35,17307.32391661
+387,"['eth', 'exposure', 'uk', 'isa/sipp', 'pension']",2024-07-25,Reddit,eth exposure isa sipp pension,3336.11,3340.26,3087.72,3173.35,17307.32391661
+388,"['eth', 'etf', '1st', 'day', 'trading', 'update']",2024-07-25,Reddit,eth etf day trading update,3336.11,3340.26,3087.72,3173.35,17307.32391661
+389,"[""'m"", 'building', 'user', 'friendly', 'vault', 'let', 'user', 'easily', 'create', 'vault', 'custom', 'multisig', 'tx', ',', 'daily', 'withdrawal', 'limit', ',', 'recovery', 'address', ',', 'arbitrary', 'token', 'support', 'looking', 'feedback', 'alpha', '.', 'trying', 'make', 'space', 'safer', 'everyone', '.', 'open', 'source', '.']",2024-07-25,Reddit,building user friendly vault let user easily create vault custom multisig daily withdrawal limit recovery address arbitrary token support looking feedback alpha trying make space safer everyone open source,3336.11,3340.26,3087.72,3173.35,17307.32391661
+390,"['situation', 'stake', 'eth', '?']",2024-07-25,Reddit,situation stake eth,3336.11,3340.26,3087.72,3173.35,17307.32391661
+391,"['etherium', 'related', 'job']",2024-07-25,Reddit,etherium related job,3336.11,3340.26,3087.72,3173.35,17307.32391661
+392,"['one', 'confused', 'ethe', 'eth', '?']",2024-07-25,Reddit,one confused ethe eth,3336.11,3340.26,3087.72,3173.35,17307.32391661
+393,"['actually', '1', 'eth', '.']",2024-07-25,Reddit,actually eth,3336.11,3340.26,3087.72,3173.35,17307.32391661
+394,['ethe'],2024-07-25,Reddit,ethe,3336.11,3340.26,3087.72,3173.35,17307.32391661
+395,"['usd/jpy', 'recovery', 'face', 'challenge', ':', 'watch']",2024-07-26,actionforex,usd jpy recovery face challenge watch,3173.35,3286.07,3171.12,3275.76,10841.05138656
+396,"['devcon', 'talk', 'wishlist', '-', 'submit', 'july', '30th']",2024-07-26,Reddit,devcon talk wishlist submit july,3173.35,3286.07,3171.12,3275.76,10841.05138656
+397,"['zk', 'hack', 'montreal', ',', 'aug', '9-11', ',', '2024']",2024-07-26,Reddit,hack montreal aug,3173.35,3286.07,3171.12,3275.76,10841.05138656
+398,"['$', '0.80', 'transfer', 'gas', 'fee', '🥹']",2024-07-26,Reddit,transfer gas fee,3173.35,3286.07,3171.12,3275.76,10841.05138656
+399,"['cake', 'wallet', ':', 'converting', 'en', 'eth', '?']",2024-07-26,Reddit,cake wallet converting eth,3173.35,3286.07,3171.12,3275.76,10841.05138656
+400,"['people', 'start', 'mod', 'discord', 'project']",2024-07-26,Reddit,people start mod discord project,3173.35,3286.07,3171.12,3275.76,10841.05138656
+401,"['ethereum', 'reach', 'market', 'capitalization', '$', '394.09', 'billion', '(', 'eth', ')']",2024-07-27,americanbankingnews,ethereum reach market capitalization billion eth,3274.94,3327.57,3195.0,3249.22,7581.06151351
+402,"['grayscale', 'ethereum', 'classic', 'trust', '(', 'etc', ')', '(', 'otcmkts', ':', 'etcg', ')', 'see', 'large', 'growth', 'short', 'interest']",2024-07-27,etfdailynews,grayscale ethereum classic trust etc otcmkts etcg see large growth short interest,3274.94,3327.57,3195.0,3249.22,7581.06151351
+403,"['transforming', 'dapp', 'development', 'modular', 'blockchain']",2024-07-27,Reddit,transforming dapp development modular blockchain,3274.94,3327.57,3195.0,3249.22,7581.06151351
+404,"['election', '2024', 'latest', 'news', ':', 'trump', 'address', 'bitcoin', 'conference', ',', 'hold', 'rally', 'vance', '-', 'washington', 'post']",2024-07-27,Google News Business US,election latest news trump address bitcoin conference hold rally vance washington post,3274.94,3327.57,3195.0,3249.22,7581.06151351
+405,"['popular', 'dapps/smart', 'contract']",2024-07-28,Reddit,popular dapps smart contract,3249.23,3281.83,3201.5,3270.02,2495.53215923
+406,"['coinbase', 'v', 'kraken']",2024-07-28,Reddit,coinbase kraken,3249.23,3281.83,3201.5,3270.02,2495.53215923
+407,"['plan', 'fix', 'staking', 'pool', 'centralization', '?']",2024-07-28,Reddit,plan fix staking pool centralization,3249.23,3281.83,3201.5,3270.02,2495.53215923
+408,"['tornado', 'cash', 'make', '?']",2024-07-28,Reddit,tornado cash make,3249.23,3281.83,3201.5,3270.02,2495.53215923
+409,"['ethereum', 'smart', 'contract']",2024-07-28,Reddit,ethereum smart contract,3249.23,3281.83,3201.5,3270.02,2495.53215923
+410,"['layer3', 'might', 'route', 'blockchain', 'simplicity']",2024-07-28,Reddit,layer might route blockchain simplicity,3249.23,3281.83,3201.5,3270.02,2495.53215923
+411,"['comprehensive', 'analysis', 'stablecoin', 'evolution']",2024-07-28,Reddit,comprehensive analysis stablecoin evolution,3249.23,3281.83,3201.5,3270.02,2495.53215923
+412,"['ethereum', 'name', 'service', '(', 'en', ')', 'trading', '1.6', '%', 'higher', 'last', '7', 'day']",2024-07-28,americanbankingnews,ethereum name service trading higher last day,3249.23,3281.83,3201.5,3270.02,2495.53215923
+413,"['ethereum', 'classic', 'market', 'capitalization', 'top', '$', '3.36', 'billion', '(', 'etc', ')']",2024-07-28,americanbankingnews,ethereum classic market capitalization top billion etc,3249.23,3281.83,3201.5,3270.02,2495.53215923
+414,"['trump', 'know', 'smart', 'contract', 'hold', 'word', '?', 'saying', 'make', 'u', '``', 'crypto', 'capital', 'planet', ""''"", '.', 'would', 'architect', 'contract', '?']",2024-07-29,Reddit,trump know smart contract hold word saying make crypto capital planet would architect contract,3269.63,3395.0,3258.44,3319.69,10505.85483893
+415,"['afraid', 'delegatecall', '?', 'understand', 'use', 'safely']",2024-07-29,Reddit,afraid delegatecall understand use safely,3269.63,3395.0,3258.44,3319.69,10505.85483893
+416,"['’', 'take', 'money', 'wallet']",2024-07-29,Reddit,take money wallet,3269.63,3395.0,3258.44,3319.69,10505.85483893
+417,"['ethereum', 'etf', 'launch', 'drive', '$', '2.2b', 'inflow', ':', 'coinshares']",2024-07-29,theoptionsinsider,ethereum etf launch drive inflow coinshares,3269.63,3395.0,3258.44,3319.69,10505.85483893
+418,"['investing', 'artemis', 'crypto', ':', 'game-changer', 'portfolio']",2024-07-29,cyprus-mail,investing artemis crypto game changer portfolio,3269.63,3395.0,3258.44,3319.69,10505.85483893
+419,"['crypto', 'market', 'gain', 'heavyweight']",2024-07-29,actionforex,crypto market gain heavyweight,3269.63,3395.0,3258.44,3319.69,10505.85483893
+420,"['wrote', 'lengthy', 'article', 'identifying', 'avoiding', 'crypto', 'scam', 'beginner']",2024-07-30,Reddit,wrote lengthy article identifying avoiding crypto scam beginner,3318.82,3362.85,3231.43,3278.39,7996.18879507
+421,"['ethereum', '9', '!', 'blow', 'candle', 'celebrate', 'key', 'milestone', 'report']",2024-07-30,Reddit,ethereum blow candle celebrate key milestone report,3318.82,3362.85,3231.43,3278.39,7996.18879507
+422,"['anyone', 'suggest', 'best', 'ethereum', 'etf', 'buy', '?', 'looking', 'fee', '.', 'lot', 'etc', 'hz', 'waived', 'fee', 'choose', 'best', 'one', '?']",2024-07-30,Reddit,anyone suggest best ethereum etf buy looking fee lot etc waived fee choose best one,3318.82,3362.85,3231.43,3278.39,7996.18879507
+423,"['celebrating', '9', 'year', 'ethereum', 'progress', '🥳']",2024-07-30,Reddit,celebrating year ethereum progress,3318.82,3362.85,3231.43,3278.39,7996.18879507
+424,"['north', 'america', ""'s"", 'zk', 'hacker', 'wanted']",2024-07-30,Reddit,north america hacker wanted,3318.82,3362.85,3231.43,3278.39,7996.18879507
+425,"['old', 'keystore', 'file', '-', 'good', 'wallet', 'use', 'recover', 'locally', '?']",2024-07-30,Reddit,old keystore file good wallet use recover locally,3318.82,3362.85,3231.43,3278.39,7996.18879507
+426,"['grayscale', 'bitcoin', 'mini', 'trust', '(', 'ticker', ':', 'btc', ')', 'begin', 'trading', 'nyse', 'arca', 'grayscale', ""investments'®"", 'newest', 'bitcoin', 'etp']",2024-07-31,4-traders,grayscale bitcoin mini trust ticker btc begin trading nyse arca grayscale investment newest bitcoin etp,3278.39,3347.76,3215.64,3230.87,11758.84202921
+427,"['sec', 'v', 'project', 'staking', ':', 'new', 'opportunity', 'test', 'dvt', '?']",2024-07-31,Reddit,sec project staking new opportunity test dvt,3278.39,3347.76,3215.64,3230.87,11758.84202921
+428,"['exploring', 'circle', 'starks', '-', 'vitalik', 'buterin']",2024-07-31,Reddit,exploring circle starks vitalik buterin,3278.39,3347.76,3215.64,3230.87,11758.84202921
+429,"['incoming', 'eth', 'send', 'pending', '24', 'hour', '.', 'gas', 'fee', 'low', '?']",2024-07-31,Reddit,incoming eth send pending hour gas fee low,3278.39,3347.76,3215.64,3230.87,11758.84202921
+430,"['someone', 'started', 'open-source', 'replacement', 'walletconnect']",2024-07-31,Reddit,someone started open source replacement walletconnect,3278.39,3347.76,3215.64,3230.87,11758.84202921
+431,"['memereum', 'presale', 'surge', 'nearly', '28', 'million', 'token', 'sold', 'following', 'sec', 'approval', 'ethereum', 'etf']",2024-07-31,Investing.com | Stock Market Quotes &amp; Financial News,memereum presale surge nearly million token sold following sec approval ethereum etf,3278.39,3347.76,3215.64,3230.87,11758.84202921
+432,"['underhanded', 'solidity', 'contest', '2024', 'open', ';', 'theme', ':', 'transient', 'storage']",2024-08-01,Reddit,underhanded solidity contest open theme transient storage,3231.38,3240.15,3079.55,3201.93,11089.0993965
+433,"['staking', 'eth', 'l2', '-', 'best', 'option', '?']",2024-08-01,Reddit,staking eth best option,3231.38,3240.15,3079.55,3201.93,11089.0993965
+434,"['colin', 'armstrong', ':', 'paragraph', ',', 'writing', 'onchain']",2024-08-01,Reddit,colin armstrong paragraph writing onchain,3231.38,3240.15,3079.55,3201.93,11089.0993965
+435,"['interested', 'finding', 'people', 'make', 'something', 'new', '--', 'chain', 'story', 'contract']",2024-08-02,Reddit,interested finding people make something new chain story contract,3201.94,3214.79,2966.0,2985.96,15305.03242714
+436,"['adding', 'fund', 'without', 'account/wallet']",2024-08-02,Reddit,adding fund without account wallet,3201.94,3214.79,2966.0,2985.96,15305.03242714
+437,"['fund', 'wallet']",2024-08-02,Reddit,fund wallet,3201.94,3214.79,2966.0,2985.96,15305.03242714
+438,"['ark', '21shares', 'active', 'bitcoin', 'ethereum', 'strategy', 'etf', '(', 'bat', ':', 'arky', ')', 'trading', '5.4', '%']",2024-08-02,etfdailynews,ark share active bitcoin ethereum strategy etf bat arky trading,3201.94,3214.79,2966.0,2985.96,15305.03242714
+439,"['question', 'cold', 'storage']",2024-08-02,Reddit,question cold storage,3201.94,3214.79,2966.0,2985.96,15305.03242714
+440,"['sooooo', 'eth', '?']",2024-08-02,Reddit,sooooo eth,3201.94,3214.79,2966.0,2985.96,15305.03242714
+441,"['accidentally', 'sent', '$', '4000', 'eth', 'token', 'ca']",2024-08-02,Reddit,accidentally sent eth token,3201.94,3214.79,2966.0,2985.96,15305.03242714
+442,"['eips', 'insight', '(', 'july', '2024', ')']",2024-08-02,Reddit,eips insight july,3201.94,3214.79,2966.0,2985.96,15305.03242714
+443,"['eth', 'dex', 'meme', 'coin']",2024-08-03,Reddit,eth dex meme coin,2985.96,3013.47,2859.29,2902.03,13236.52230617
+444,"['erc-4337', 'standard', 'basically', 'solves', 'quantum', 'attack', 'problem']",2024-08-03,Reddit,erc standard basically solves quantum attack problem,2985.96,3013.47,2859.29,2902.03,13236.52230617
+445,"['evm-compatible', 'blockchain']",2024-08-03,Reddit,evm compatible blockchain,2985.96,3013.47,2859.29,2902.03,13236.52230617
+446,"['grayscale', 'ethe', 'outflow', 'plummet', '80', '%', 'week']",2024-08-03,Reddit,grayscale ethe outflow plummet week,2985.96,3013.47,2859.29,2902.03,13236.52230617
+447,"['p2p', 'buyer', ':', 'best', 'option', '?']",2024-08-03,Reddit,buyer best option,2985.96,3013.47,2859.29,2902.03,13236.52230617
+448,"['blockchain', 'snapshot', 'ethereum', 'mainnet', ',', 'holesky', 'sepolia', 'execution', 'consensus', 'client', 'supported', '(', 'provided', 'allnodes', 'uploaded', 'daily', 'basis', ')']",2024-08-04,Reddit,blockchain snapshot ethereum mainnet holesky sepolia execution consensus client supported provided allnodes uploaded daily basis,2902.2,2931.9,2628.0,2687.17,17392.66031609
+449,"['``', 'proof-of-suffrage', ""''"", 'consensus', 'engine', 'proof-of-unique-human', 'johan', 'started', 'inventing', '2015', ',', 'operational']",2024-08-04,Reddit,proof suffrage consensus engine proof unique human johan started inventing operational,2902.2,2931.9,2628.0,2687.17,17392.66031609
+450,"['choosing', 'platform', 'game', 'development', 'solana', 'rust', 'eth', 'evm', '?']",2024-08-04,Reddit,choosing platform game development solana rust eth evm,2902.2,2931.9,2628.0,2687.17,17392.66031609
+451,"['ethereum', 'price', 'top', '$', '2,910.31', 'major', 'exchange', '(', 'eth', ')']",2024-08-04,americanbankingnews,ethereum price top major exchange eth,2902.2,2931.9,2628.0,2687.17,17392.66031609
+452,"['bitcoin', 'plunge', 'crypto', 'market', 'loses', 'collective', '$', '367', 'billion']",2024-08-05,thestreet,bitcoin plunge crypto market loses collective billion,2687.18,2694.76,1911.81,2417.54,96378.57354593
+453,"['bitcoin', 'price', 'free', 'fall', 'crypto', 'market', 'crash']",2024-08-05,Independent,bitcoin price free fall crypto market crash,2687.18,2694.76,1911.81,2417.54,96378.57354593
+454,"['eur/usd', 'target', 'gain', ',', 'bitcoin', 'ethereum', 'nosedive']",2024-08-05,actionforex,eur usd target gain bitcoin ethereum nosedive,2687.18,2694.76,1911.81,2417.54,96378.57354593
+455,"['ethereum', 'may', 'find', 'temporary', 'support', '2100', 'freefall', ',', 'threat', 'lingers', '2800']",2024-08-05,actionforex,ethereum may find temporary support freefall threat lingers,2687.18,2694.76,1911.81,2417.54,96378.57354593
+456,"['crypto', 'selloff', 'wipe', '$', '367', 'billion', 'value', 'bitcoin', ',', 'ether', 'plunge']",2024-08-05,CNBC,crypto selloff wipe billion value bitcoin ether plunge,2687.18,2694.76,1911.81,2417.54,96378.57354593
+457,"['likely', 'scam', '?', 'contact', 'buy', 'artwork', 'paying', 'eth']",2024-08-05,Reddit,likely scam contact buy artwork paying eth,2687.18,2694.76,1911.81,2417.54,96378.57354593
+458,"['gas', 'fee', 'fleek']",2024-08-05,Reddit,gas fee fleek,2687.18,2694.76,1911.81,2417.54,96378.57354593
+459,"['ethereum', 'name', 'service', 'achieves', 'market', 'capitalization', '$', '492.69', 'million', '(', 'en', ')']",2024-08-05,americanbankingnews,ethereum name service achieves market capitalization million,2687.18,2694.76,1911.81,2417.54,96378.57354593
+460,"['help', '!', '!']",2024-08-06,Reddit,help,2419.84,2555.15,2416.6,2461.39,21694.55293262
+461,"['lack', 'business', 'mindset', 'eth', 'joseph', 'rubin']",2024-08-06,Reddit,lack business mindset eth joseph rubin,2419.84,2555.15,2416.6,2461.39,21694.55293262
+462,"['please', 'help', '!', '!']",2024-08-06,Reddit,please help,2419.84,2555.15,2416.6,2461.39,21694.55293262
+463,"[""'d"", 'love', 'feedback', 'smart', 'contract', 'built', 'on-chain', 'company']",2024-08-06,Reddit,love feedback smart contract built chain company,2419.84,2555.15,2416.6,2461.39,21694.55293262
+464,"['self', 'staking', 'work', '?']",2024-08-06,Reddit,self staking work,2419.84,2555.15,2416.6,2461.39,21694.55293262
+465,"['ethereum', 'smart', 'investment', 'following', 'bitcoin', 'halving', '?']",2024-08-07,flaglerlive,ethereum smart investment following bitcoin halving,2462.53,2552.41,2311.07,2343.07,18968.43861717
+466,"['rhino', 'review', 'ethereum', 'staking', 'journal', '#', '27', 'ethereum', 'argentina', 'stakin', 'day', 'recap', '!']",2024-08-07,Reddit,rhino review ethereum staking journal ethereum argentina stakin day recap,2462.53,2552.41,2311.07,2343.07,18968.43861717
+467,"['bitcoin', ':', 'shock', 'death', 'cross']",2024-08-07,actionforex,bitcoin shock death cross,2462.53,2552.41,2311.07,2343.07,18968.43861717
+468,"['someth', 'wrong', '?']",2024-08-07,Reddit,someth wrong,2462.53,2552.41,2311.07,2343.07,18968.43861717
+469,"['top', 'evm', 'wallet', ':', 'lightning-fast', 'wallet', 'creation', 'hana', '’', 'new', 'social', 'login']",2024-08-07,Reddit,top evm wallet lightning fast wallet creation hana new social login,2462.53,2552.41,2311.07,2343.07,18968.43861717
+470,"['key', 'movement', 'ethereum', 'staking', 'since', 'launch']",2024-08-08,Reddit,key movement ethereum staking since launch,2343.4,2722.73,2321.71,2685.81,24186.70188655
+471,"['tool', 'crawl', 'all/most', 'eth', 'based', 'chain', 'wallet', '?']",2024-08-08,Reddit,tool crawl eth based chain wallet,2343.4,2722.73,2321.71,2685.81,24186.70188655
+472,"['ethereum', 'climb', '10', '%', 'rally']",2024-08-08,Investing.com | Stock Market Quotes &amp; Financial News,ethereum climb rally,2343.4,2722.73,2321.71,2685.81,24186.70188655
+473,"['ethereum', '(', 'eth', ')', 'trading', '23.6', '%', 'week']",2024-08-08,americanbankingnews,ethereum eth trading week,2343.4,2722.73,2321.71,2685.81,24186.70188655
+474,"['create', 'confidential', 'variant', 'erc-3643', 'security', 'token', 'standard', 'using', 'zama', ""'s"", 'fhevm']",2024-08-08,Reddit,create confidential variant erc security token standard using zama fhevm,2343.4,2722.73,2321.71,2685.81,24186.70188655
+475,"['anonymous', 'transaction', 'ethereum', 'network']",2024-08-08,Reddit,anonymous transaction ethereum network,2343.4,2722.73,2321.71,2685.81,24186.70188655
+476,"['trust', 'upgradability']",2024-08-09,Reddit,trust upgradability,2685.28,2706.4,2555.01,2600.02,13699.81865425
+477,"['vaneck', 'ethereum', 'strategy', 'etf', '(', 'nysearca', ':', 'efut', ')', 'trading', '3.6', '%']",2024-08-09,etfdailynews,vaneck ethereum strategy etf nysearca efut trading,2685.28,2706.4,2555.01,2600.02,13699.81865425
+478,"['vaneck', 'ethereum', 'strategy', 'etf', '(', 'nysearca', ':', 'efut', ')', 'stock', 'price', '3.6', '%']",2024-08-09,americanbankingnews,vaneck ethereum strategy etf nysearca efut stock price,2685.28,2706.4,2555.01,2600.02,13699.81865425
+479,"['accurate', 'block', 'timestamps', 'ethereum', '?']",2024-08-09,Reddit,accurate block timestamps ethereum,2685.28,2706.4,2555.01,2600.02,13699.81865425
+480,"['ethereum', 'classic', '(', 'etc', ')', 'trading', '4.8', '%', 'week']",2024-08-10,americanbankingnews,ethereum classic etc trading week,2600.19,2644.37,2578.89,2609.2,2650.34077042
+481,"['ethereum', '(', 'eth', ')', 'price', 'reach', '$', '2,607.84', 'exchange']",2024-08-10,americanbankingnews,ethereum eth price reach exchange,2600.19,2644.37,2578.89,2609.2,2650.34077042
+482,"['famous', 'erc-20', 'wallet', 'publicly', 'available', 'private', 'key', '?']",2024-08-10,Reddit,famous erc wallet publicly available private key,2600.19,2644.37,2578.89,2609.2,2650.34077042
+483,"['100', 'crypto', 'project', 'used', 'eip-2535', 'diamond', 'implement', 'smart', 'contract', 'architecture']",2024-08-10,Reddit,crypto project used eip diamond implement smart contract architecture,2600.19,2644.37,2578.89,2609.2,2650.34077042
+484,"['create', 'import', 'defi', 'wallet', 'matter', 'choose', '?']",2024-08-10,Reddit,create import defi wallet matter choose,2600.19,2644.37,2578.89,2609.2,2650.34077042
+485,"['ethereum', 'name', 'service', '(', 'en', ')', 'price', 'reach', '$', '19.43', 'top', 'exchange']",2024-08-10,americanbankingnews,ethereum name service price reach top exchange,2600.19,2644.37,2578.89,2609.2,2650.34077042
+486,"['safe', 'stake', '$', '1,000,000', '?', 'would', '?']",2024-08-11,Reddit,safe stake would,2609.21,2719.11,2539.84,2553.06,8524.6158302
+487,"['anyone', 'found', 'truly', 'decentralized', 'fast', 'way', 'swap', 'btc', 'eth', 'without', 'relying', 'centralized', 'exchange', '?', ""''""]",2024-08-11,Reddit,anyone found truly decentralized fast way swap btc eth without relying centralized exchange,2609.21,2719.11,2539.84,2553.06,8524.6158302
+488,"['fully', 'decentralized', 'account', 'recovery', 'system', '?']",2024-08-12,Reddit,fully decentralized account recovery system,2555.79,2748.86,2511.0,2723.29,16078.54920928
+489,"['ethereum', 'classic', 'price', '20.3', '%', 'last', '7', 'day', '(', 'etc', ')']",2024-08-12,americanbankingnews,ethereum classic price last day etc,2555.79,2748.86,2511.0,2723.29,16078.54920928
+490,"['staking', 'eth', 'coinbase', 'wallet']",2024-08-13,Reddit,staking eth coinbase wallet,2722.95,2737.19,2613.58,2703.0,13591.89738249
+491,"['old', 'school', 'artist', ',', 'hard', 'time', 'ethereum-compatible', 'blockchain', 'account', 'digital', 'art']",2024-08-13,Reddit,old school artist hard time ethereum compatible blockchain account digital art,2722.95,2737.19,2613.58,2703.0,13591.89738249
+492,"['accidentally', 'transferred', 'steth', 'binance', 'eth', 'address']",2024-08-13,Reddit,accidentally transferred steth binance eth address,2722.95,2737.19,2613.58,2703.0,13591.89738249
+493,"['solana', '(', 'sol', ')', 'bounce', ':', '$', '150', 'lie', 'ahead', ',', 'ethereum', '(', 'eth', ')', 'face', 'death', 'cross', '?', 'two', 'key', 'bitcoin', '(', 'btc', ')', 'price', 'level', 'revealed']",2024-08-13,Investing.com | Stock Market Quotes &amp; Financial News,solana sol bounce lie ahead ethereum eth face death cross two key bitcoin btc price level revealed,2722.95,2737.19,2613.58,2703.0,13591.89738249
+494,"['solution', 'people', 'sending', 'wrong', 'token', 'wrong', 'network']",2024-08-14,Reddit,solution people sending wrong token wrong network,2703.01,2778.99,2635.0,2664.15,12943.8511961
+495,"['basecamp', '001', ':', 'jesse', 'pollak', '(', 'base', ')', ',', 'ben', 'leventhal', '(', 'blackbird', ')', ',', 'julian', 'holguin', '(', 'doodle', ')', ',', 'yele', 'bademosi', '(', 'onboard', ')']",2024-08-14,Reddit,basecamp jesse pollak base ben leventhal blackbird julian holguin doodle yele bademosi onboard,2703.01,2778.99,2635.0,2664.15,12943.8511961
+496,"['staking', 'without', 'platform', 'risk', '?']",2024-08-14,Reddit,staking without platform risk,2703.01,2778.99,2635.0,2664.15,12943.8511961
+497,"['ethereum', 'gently', 'gaining', 'momentum']",2024-08-14,actionforex,ethereum gently gaining momentum,2703.01,2778.99,2635.0,2664.15,12943.8511961
+498,"['help', 'understanding', '’', 'going', 'lido']",2024-08-14,Reddit,help understanding going lido,2703.01,2778.99,2635.0,2664.15,12943.8511961
+499,"['ethereum', 'supply', 'surpasses', '120m', 'eth', 'staking', ',', 'restaking', 'surge']",2024-08-15,theoptionsinsider,ethereum supply surpasses eth staking restaking surge,2664.16,2675.11,2514.38,2570.08,18533.09183518
+500,"['ethereum', 'trading', '7.9', '%', 'last', 'week', '(', 'eth', ')']",2024-08-15,americanbankingnews,ethereum trading last week eth,2664.16,2675.11,2514.38,2570.08,18533.09183518
+501,"['opting', 'staking', 'crypto', 'exchange']",2024-08-15,Reddit,opting staking crypto exchange,2664.16,2675.11,2514.38,2570.08,18533.09183518
+502,"['staking', ':', 'get', 'monthly', '(', 'infrequent', '!', ')', 'reward', '?']",2024-08-15,Reddit,staking get monthly infrequent reward,2664.16,2675.11,2514.38,2570.08,18533.09183518
+503,"['stablecoin', 'safest', 'censorship', 'fund', 'freezing', '?']",2024-08-15,Reddit,stablecoin safest censorship fund freezing,2664.16,2675.11,2514.38,2570.08,18533.09183518
+504,"['flarenetworks', 'using', 'eip-2535', 'diamond', 'fassets', 'smart', 'contract', 'architecture']",2024-08-15,Reddit,flarenetworks using eip diamond fassets smart contract architecture,2664.16,2675.11,2514.38,2570.08,18533.09183518
+505,"['digital', 'chamber', 'ceo', ':', 'policymakers', ""'are"", 'responding', 'demand', 'greater', 'access', 'digital', 'asset', ""'"", 'ether', 'etf', 'approval']",2024-08-16,Reddit,digital chamber ceo policymakers responding demand greater access digital asset ether etf approval,2570.09,2631.6,2550.93,2593.43,14129.17162308
+506,"['send', 'eth', 'fantom', 'opera', 'mainnet', 'eth', 'mainnet', 'wallet', '-', 'way', 'recover', '?']",2024-08-16,Reddit,send eth fantom opera mainnet eth mainnet wallet way recover,2570.09,2631.6,2550.93,2593.43,14129.17162308
+507,"['getting', 'small', 'amount', 'eth', 'gas', 'fee']",2024-08-16,Reddit,getting small amount eth gas fee,2570.09,2631.6,2550.93,2593.43,14129.17162308
+508,"['ethereum', 'name', 'service', 'market', 'capitalization', 'reach', '$', '601.80', 'million', '(', 'en', ')']",2024-08-16,americanbankingnews,ethereum name service market capitalization reach million,2570.09,2631.6,2550.93,2593.43,14129.17162308
+509,"['blob', 'progress', 'past', 'half-year']",2024-08-16,Reddit,blob progress past half year,2570.09,2631.6,2550.93,2593.43,14129.17162308
+510,"['shiba', 'inu', '(', 'shib', ')', ':', ""'s"", 'happening', '?', 'bitcoin', '(', 'btc', ')', 'resistance', 'unbreakable', '?', 'ethereum', '(', 'eth', ')', 'verge', 'fundamental', 'crisis', '?']",2024-08-17,Investing.com | Stock Market Quotes &amp; Financial News,shiba inu shib happening bitcoin btc resistance unbreakable ethereum eth verge fundamental crisis,2593.5,2626.09,2588.86,2613.74,3296.78637741
+511,"['live', 'calculator', 'live', 'stats', 'show', 'current', 'projected', 'reward', 'rate', 'eigenlayer', 'deposit', ',', 'without', 'actually', 'deposit', '?']",2024-08-17,Reddit,live calculator live stats show current projected reward rate eigenlayer deposit without actually deposit,2593.5,2626.09,2588.86,2613.74,3296.78637741
+512,"['miss', 'eth', 'ultrasound', 'money', '.', 'way', 'revert', 'eip-4844', '?']",2024-08-17,Reddit,miss eth ultrasound money way revert eip,2593.5,2626.09,2588.86,2613.74,3296.78637741
+513,"['vitalik', 'buterin', 'donates', '$', '532k', 'animal', 'welfare', 'memecoins', 'sent', 'wallet']",2024-08-17,Reddit,vitalik buterin donates animal welfare memecoins sent wallet,2593.5,2626.09,2588.86,2613.74,3296.78637741
+514,"['automatically', 'dca', 'eth', '?']",2024-08-18,Reddit,automatically dca eth,2613.74,2685.35,2596.75,2612.65,8207.72502268
+515,"[""'m"", 'working', 'historical', 'research', 'massive', 'data', 'visualization', 'public', 'good', 'project', '.', ""'s"", 'code', 'involved', ',', 'grant', 'program', ""n't"", 'consider', '``', 'builder', '.', ""''"", 'could', 'please', 'advise', 'help', 'find', 'support', 'project', '?', '(', 'link', 'project', ""'s"", 'figma', ')']",2024-08-18,Reddit,working historical research massive data visualization public good project code involved grant program consider builder could please advise help find support project link project figma,2613.74,2685.35,2596.75,2612.65,8207.72502268
+516,"['really', 'find', 'cryptocurrency', 'private', 'key', 'online', '?']",2024-08-18,Reddit,really find cryptocurrency private key online,2613.74,2685.35,2596.75,2612.65,8207.72502268
+517,"['ethereum', 'name', 'service', 'price', 'hit', '$', '18.74', 'major', 'exchange', '(', 'en', ')']",2024-08-18,americanbankingnews,ethereum name service price hit major exchange,2613.74,2685.35,2596.75,2612.65,8207.72502268
+518,"['ethereum', 'classic', '(', 'etc', ')', 'trading', '1.4', '%', 'lower', 'last', '7', 'day']",2024-08-18,americanbankingnews,ethereum classic etc trading lower last day,2613.74,2685.35,2596.75,2612.65,8207.72502268
+519,"['web3.js', 'santiago', 'trujillo', 'zuluaga']",2024-08-19,Reddit,web santiago trujillo zuluaga,2612.7,2646.46,2561.87,2637.92,8211.84501836
+520,"['ethereum', ""'s"", 'layer', '2', 'ecosystem', ':', 'scaling', 'solution', 'watch']",2024-08-19,Reddit,ethereum layer ecosystem scaling solution watch,2612.7,2646.46,2561.87,2637.92,8211.84501836
+521,"['bot', 'allows', 'limit', 'order', 'relative', 'percentage', 'ath', 'checking', 'volume', '?']",2024-08-19,Reddit,bot allows limit order relative percentage ath checking volume,2612.7,2646.46,2561.87,2637.92,8211.84501836
+522,"['ethereum', 'classic', '(', 'etc', ')', 'trading', '0.9', '%', 'lower', 'last', 'week']",2024-08-19,americanbankingnews,ethereum classic etc trading lower last week,2612.7,2646.46,2561.87,2637.92,8211.84501836
+523,"['ethereum', 'market', 'cap', 'hit', '$', '310.30', 'billion', '(', 'eth', ')']",2024-08-19,americanbankingnews,ethereum market cap hit billion eth,2612.7,2646.46,2561.87,2637.92,8211.84501836
+524,"['ethereum', 'supply', 'increase', '60,633', 'past', 'month', '?']",2024-08-19,Reddit,ethereum supply increase past month,2612.7,2646.46,2561.87,2637.92,8211.84501836
+525,"['dapp', 'recommendation', ',', 'anyone', '?']",2024-08-19,Reddit,dapp recommendation anyone,2612.7,2646.46,2561.87,2637.92,8211.84501836
+526,"['help', 'needed', ':', 'ethereum', 'hsm', 'integration', 'resulting', '``', 'invalid', 'sender', ""''"", 'error']",2024-08-19,Reddit,help needed ethereum hsm integration resulting invalid sender error,2612.7,2646.46,2561.87,2637.92,8211.84501836
+527,"['rise', 'rwas', ':', 'revolution', 'investment', 'world', 'underway', '!']",2024-08-20,Reddit,rise rwas revolution investment world underway,2637.86,2695.07,2557.06,2573.45,6711.07839401
+528,"['happened', 'ethereum', 'gas', 'fee', '?', 'low', ',', 'yet', 'high', '!', '🧐']",2024-08-20,Reddit,happened ethereum gas fee low yet high,2637.86,2695.07,2557.06,2573.45,6711.07839401
+529,"['protocol/dapp', 'would', 'like', 'see', ""n't"", 'built', 'yet', '?']",2024-08-20,Reddit,protocol dapp would like see built yet,2637.86,2695.07,2557.06,2573.45,6711.07839401
+530,"['yield', 'would', 'prefer', 'staking', '?']",2024-08-21,Reddit,yield would prefer staking,2573.05,2662.7,2536.68,2629.76,10084.80126897
+531,"['navigating', 'future', 'defi']",2024-08-21,Reddit,navigating future defi,2573.05,2662.7,2536.68,2629.76,10084.80126897
+532,"['ethereum', 'name', 'service', '(', 'en', ')', 'market', 'capitalization', 'hit', '$', '604.49', 'million']",2024-08-21,americanbankingnews,ethereum name service market capitalization hit million,2573.05,2662.7,2536.68,2629.76,10084.80126897
+533,"['34', 'million', 'eth', 'staked', 'ethereum', 'mainnet', '!']",2024-08-22,Reddit,million eth staked ethereum mainnet,2629.77,2644.94,2586.27,2623.19,6319.95158198
+534,"['one', 'solo', 'stakers', ':', 'smooth', '?']",2024-08-22,Reddit,one solo stakers smooth,2629.77,2644.94,2586.27,2623.19,6319.95158198
+535,"['better', 'source', 'validator/proposer', 'mapping', '?']",2024-08-22,Reddit,better source validator proposer mapping,2629.77,2644.94,2586.27,2623.19,6319.95158198
+536,"['crypto', 'tug', 'war']",2024-08-22,actionforex,crypto tug war,2629.77,2644.94,2586.27,2623.19,6319.95158198
+537,"['want', 'learn', 'ethereum', '.', 'start', 'want', 'write', 'smart', 'contract', 'handle', 'bet', 'friend']",2024-08-23,Reddit,want learn ethereum start want write smart contract handle bet friend,2623.19,2800.0,2623.18,2764.61,11729.34541452
+538,"['best', 'book', 'learn', 'ethereum', '?']",2024-08-23,Reddit,best book learn ethereum,2623.19,2800.0,2623.18,2764.61,11729.34541452
+539,"['exploring', 'fraud', 'proof', 'trilemma', ':', 'challenge', 'securing', 'optimistic', 'rollups']",2024-08-23,Reddit,exploring fraud proof trilemma challenge securing optimistic rollups,2623.19,2800.0,2623.18,2764.61,11729.34541452
+540,"['bitcoiners', 'ever', 'consider', 'bitcoin', 'exchange', '?', '🤔']",2024-08-24,Reddit,bitcoiners ever consider bitcoin exchange,2764.88,2820.53,2733.71,2769.76,9276.52495903
+541,"['latest', 'week', 'ethereum', 'news', ';', '🎂', 'eight', 'year', 'anniversary']",2024-08-24,Reddit,latest week ethereum news eight year anniversary,2764.88,2820.53,2733.71,2769.76,9276.52495903
+542,"['launched', 'vault', '!', 'vault', 'like', 'fully', 'onchain', 'saving', 'account', 'hot', 'wallet', '.', 'keep', 'asset', 'safe', 'drainers', ',', 'hack', ',', 'open', 'approval', 'lost/leaked', 'pks', '.', 'token/nft', ',', 'daily', 'limit', ',', 'multisig', 'backup', 'recovery', '.', 'protect', 'asset', '<', 'cup', 'coffee', '.']",2024-08-24,Reddit,launched vault vault like fully onchain saving account hot wallet keep asset safe drainers hack open approval lost leaked pks token nft daily limit multisig backup recovery protect asset cup coffee,2764.88,2820.53,2733.71,2769.76,9276.52495903
+543,"['ark', '21shares', 'active', 'bitcoin', 'ethereum', 'strategy', 'etf', '(', 'bat', ':', 'arky', ')', 'share', '5.7', '%']",2024-08-24,etfdailynews,ark share active bitcoin ethereum strategy etf bat arky share,2764.88,2820.53,2733.71,2769.76,9276.52495903
+544,"['ethereum', 'prepares', 'pectra', 'upgrade', ':', 'change', '?']",2024-08-25,Reddit,ethereum prepares pectra upgrade change,2769.77,2792.86,2735.83,2747.0,4038.87037911
+545,"['dca', 'question']",2024-08-25,Reddit,dca question,2769.77,2792.86,2735.83,2747.0,4038.87037911
+546,"['ethereum', 'maxi', '’', '?']",2024-08-25,Reddit,ethereum maxi,2769.77,2792.86,2735.83,2747.0,4038.87037911
+547,"['eth', 'staking', 'wallet', 'app', '?']",2024-08-25,Reddit,eth staking wallet app,2769.77,2792.86,2735.83,2747.0,4038.87037911
+548,"['kiwi', 'news', 'ok', 'founder', 'arrested', '?']",2024-08-26,Reddit,kiwi news founder arrested,2747.01,2761.38,2669.69,2681.1,8612.93163115
+549,"['safe', 'sell', 'airdropped', 'token', 'appear', 'market', 'price', '?']",2024-08-26,Reddit,safe sell airdropped token appear market price,2747.01,2761.38,2669.69,2681.1,8612.93163115
+550,"['starknet', 'surpassed', 'project', 'developer', 'activity', ':', 'marketing', 'analysis']",2024-08-26,Reddit,starknet surpassed project developer activity marketing analysis,2747.01,2761.38,2669.69,2681.1,8612.93163115
+551,"['check', 'holder', '?']",2024-08-26,Reddit,check holder,2747.01,2761.38,2669.69,2681.1,8612.93163115
+552,"['audited', ',', 'yet', 'hacked', ':', 'critical', 'role', 'real-time', 'monitoring', 'web3']",2024-08-27,Reddit,audited yet hacked critical role real time monitoring web,2681.11,2700.18,2394.0,2458.44,15315.79276507
+553,"['digital', 'asset', 'staking', ':', 'work', ',', 'simply', '.']",2024-08-27,Reddit,digital asset staking work simply,2681.11,2700.18,2394.0,2458.44,15315.79276507
+554,"['coinbase', 'ethereum', 'staking']",2024-08-27,Reddit,coinbase ethereum staking,2681.11,2700.18,2394.0,2458.44,15315.79276507
+555,"['launch', 'network', 'restaked', 'security', 'minute', ':', 'tanssi', 'symbiotic', 'set', 'new', 'ethereum', 'standard', '|', 'tanssi', 'network']",2024-08-27,Reddit,launch network restaked security minute tanssi symbiotic set new ethereum standard tanssi network,2681.11,2700.18,2394.0,2458.44,15315.79276507
+556,"['missing', 'eth', 'swap']",2024-08-27,Reddit,missing eth swap,2681.11,2700.18,2394.0,2458.44,15315.79276507
+557,"['effect', 'off-', 'checking', 'amount', 'burned', 'token']",2024-08-27,Reddit,effect checking amount burned token,2681.11,2700.18,2394.0,2458.44,15315.79276507
+558,"['msc', 'thesis', 'crypto']",2024-08-27,Reddit,msc thesis crypto,2681.11,2700.18,2394.0,2458.44,15315.79276507
+559,"['faster', 'crypto', 'market', 'decline']",2024-08-28,actionforex,faster crypto market decline,2458.44,2553.69,2421.0,2528.36,19865.13388895
+560,"['aussie', 'rise', 'inflation', 'beat', ',', 'ethereum', 'take', 'sharp', 'dive']",2024-08-28,actionforex,aussie rise inflation beat ethereum take sharp dive,2458.44,2553.69,2421.0,2528.36,19865.13388895
+561,"['ethereum', 'name', 'service', '(', 'en', ')', 'trading', '6.3', '%', 'last', 'week']",2024-08-29,americanbankingnews,ethereum name service trading last week,2528.37,2596.82,2505.87,2528.61,9562.55658006
+562,"['choosing', 'nettop', 'mini', 'pc', 'model', 'run', 'ethereum', 'node']",2024-08-29,Reddit,choosing nettop mini model run ethereum node,2528.37,2596.82,2505.87,2528.61,9562.55658006
+563,"['spot', 'ethereum', 'etf', 'end', 'nine-day', 'outflow', 'streak', '$', '5.8', 'million', 'net', 'inflow']",2024-08-29,Reddit,spot ethereum etf end nine day outflow streak million net inflow,2528.37,2596.82,2505.87,2528.61,9562.55658006
+564,"['complex', 'journey', 'web3', ':', 'radical', 'simplicity', 'key', 'building', 'future']",2024-08-29,Reddit,complex journey web radical simplicity key building future,2528.37,2596.82,2505.87,2528.61,9562.55658006
+565,"['new', 'telegram']",2024-08-29,Reddit,new telegram,2528.37,2596.82,2505.87,2528.61,9562.55658006
+566,"['where/how', 'stake']",2024-08-29,Reddit,stake,2528.37,2596.82,2505.87,2528.61,9562.55658006
+567,"['q', '&', ':', 'get', 'eth', 'gas', 'fee', 'airdrop']",2024-08-29,Reddit,get eth gas fee airdrop,2528.37,2596.82,2505.87,2528.61,9562.55658006
+568,"['ef', 'research', 'ama', 'september', '5', ';', 'submit', 'question', 'ahead', 'time', 'form']",2024-08-29,Reddit,research ama september submit question ahead time form,2528.37,2596.82,2505.87,2528.61,9562.55658006
+569,"['need', 'hopium', 'ethereum', '.']",2024-08-29,Reddit,need hopium ethereum,2528.37,2596.82,2505.87,2528.61,9562.55658006
+570,"['bitget', 'proof-of-reserves', 'august', ':', 'increase', 'reserve', 'ratio', 'user', '’', 'asset', 'ethereum', '(', 'eth', ')']",2024-08-29,Financial Post | Canada Business News,bitget proof reserve august increase reserve ratio user asset ethereum eth,2528.37,2596.82,2505.87,2528.61,9562.55658006
+571,"['ethereum', ':', 'rebound', 'long', 'road', 'sunset']",2024-08-29,actionforex,ethereum rebound long road sunset,2528.37,2596.82,2505.87,2528.61,9562.55658006
+572,"['looking', 'eth', 'related', 'x', 'account', 'community', 'follow']",2024-08-30,Reddit,looking eth related account community follow,2528.62,2551.74,2431.12,2526.84,15217.04057393
+573,"['weth', 'website']",2024-08-31,Reddit,weth website,2526.84,2533.33,2493.08,2512.79,2493.48370007
+574,"['vaneck', 'ethereum', 'strategy', 'etf', '(', 'nysearca', ':', 'efut', ')', 'trading', '0.8', '%']",2024-08-31,etfdailynews,vaneck ethereum strategy etf nysearca efut trading,2526.84,2533.33,2493.08,2512.79,2493.48370007
+575,"['l2s', 'parasitic', '?']",2024-08-31,Reddit,parasitic,2526.84,2533.33,2493.08,2512.79,2493.48370007
+576,"['wazirx', 'hacker', 'transfer', '2,600', 'eth', 'worth', '$', '6m', 'tornado', 'cash']",2024-09-02,Reddit,wazirx hacker transfer eth worth tornado cash,2427.51,2564.36,2424.61,2538.48,10960.41814638
+577,"['risk', 'contract', 'call', 'another', 'contract.call', '{', 'value', ':', 'msg.value', '}', '(', '_payload', ')', '?']",2024-09-02,Reddit,risk contract call another contract call value msg value _payload,2427.51,2564.36,2424.61,2538.48,10960.41814638
+578,"['ethereum', '(', 'eth', ')', 'price', 'top', '$', '2,524.17', 'major', 'exchange']",2024-09-02,americanbankingnews,ethereum eth price top major exchange,2427.51,2564.36,2424.61,2538.48,10960.41814638
+579,"['vitalik', ':', 'glue', 'coprocessor', 'architecture']",2024-09-02,Reddit,vitalik glue coprocessor architecture,2427.51,2564.36,2424.61,2538.48,10960.41814638
+580,"['ethereum', 'supply', 'decrease', 'future', '?']",2024-09-03,Reddit,ethereum supply decrease future,2538.49,2551.53,2414.3,2422.26,10101.29416108
+581,"['btc', '<', '>', 'wbtc', 'swap', ':', 'use', '?']",2024-09-03,Reddit,btc wbtc swap use,2538.49,2551.53,2414.3,2422.26,10101.29416108
+582,"['polygon', 'shut', ',', ""'s"", 'going', 'happen', 'polygon', 'bridget', 'ethereum', '?']",2024-09-03,Reddit,polygon shut going happen polygon bridget ethereum,2538.49,2551.53,2414.3,2422.26,10101.29416108
+583,"['ethereum', 'etf', 'officially', 'launch', 'u']",2024-09-03,gtweekly,ethereum etf officially launch,2538.49,2551.53,2414.3,2422.26,10101.29416108
+584,"['would', 'anyone', 'use', 'certain', 'smart', 'contract', 'duplicate', '?']",2024-09-03,Reddit,would anyone use certain smart contract duplicate,2538.49,2551.53,2414.3,2422.26,10101.29416108
+585,"['help', 'decide', '-', 'eth', 'btc', '?']",2024-09-03,Reddit,help decide eth btc,2538.49,2551.53,2414.3,2422.26,10101.29416108
+586,"['etherium', 'wallet', 'recovery']",2024-09-03,Reddit,etherium wallet recovery,2538.49,2551.53,2414.3,2422.26,10101.29416108
+587,"['[', 'ama', ']', 'ef', 'research', '(', 'pt', '.', '12', ':', '05', 'september', ',', '2024', ')']",2024-09-03,Reddit,ama research september,2538.49,2551.53,2414.3,2422.26,10101.29416108
+588,"['someone', 'please', 'explain', 'metamask', ""'s"", 'validator', 'staking', '?']",2024-09-03,Reddit,someone please explain metamask validator staking,2538.49,2551.53,2414.3,2422.26,10101.29416108
+589,"['new', 'eth', 'game', '?']",2024-09-03,Reddit,new eth game,2538.49,2551.53,2414.3,2422.26,10101.29416108
+590,"['analog', 'right', 'must', 'secured', 'digital', 'realm', 'also', ':', '1⃣', 'anonymous', 'outside', 'inside', 'letter', '2⃣', 'one', 'allowed', 'surveil', 'sending', 'mail', '3⃣', 'one', 'allowed', 'open', 'someone', 'letter', '4⃣', 'postman', 'responsible', 'content']",2024-09-04,Reddit,analog right must secured digital realm also anonymous outside inside letter one allowed surveil sending mail one allowed open someone letter postman responsible content,2424.81,2488.55,2308.0,2450.08,15896.27490611
+591,"['ethereum', 'l2', 'blockspace', 'tool', 'growthepie']",2024-09-04,Reddit,ethereum blockspace tool growthepie,2424.81,2488.55,2308.0,2450.08,15896.27490611
+592,"['’', 'mix', 'eth', 'btc', '?']",2024-09-04,Reddit,mix eth btc,2424.81,2488.55,2308.0,2450.08,15896.27490611
+593,"['looking', 'perfect', 'api', 'give', 'transaction', 'history', 'account']",2024-09-04,Reddit,looking perfect api give transaction history account,2424.81,2488.55,2308.0,2450.08,15896.27490611
+594,"['solidity', '0.8.27', 'release', 'announcement', '|', 'solidity', 'programming', 'language']",2024-09-04,Reddit,solidity release announcement solidity programming language,2424.81,2488.55,2308.0,2450.08,15896.27490611
+595,"['dollar', 'digital', ':', 'transitioning', 'cryptocurrency', 'nz', 'online', 'casino']",2024-09-04,Insights Success,dollar digital transitioning cryptocurrency online casino,2424.81,2488.55,2308.0,2450.08,15896.27490611
+596,"['42', 'slashing-free', 'day', 'ethereum', 'mainnet']",2024-09-04,Reddit,slashing free day ethereum mainnet,2424.81,2488.55,2308.0,2450.08,15896.27490611
+597,"['new', 'regulation', 'shaping', 'future', 'cryptocurrencies']",2024-09-05,Pakistan Today,new regulation shaping future cryptocurrencies,2450.4,2465.48,2347.6,2368.47,8336.76045531
+598,"['code', 'listening', 'real-time', 'dex', 'swap', 'data', 'ethereum', 'base', 'using', 'websocket', '+', 'python']",2024-09-05,Reddit,code listening real time dex swap data ethereum base using websocket python,2450.4,2465.48,2347.6,2368.47,8336.76045531
+599,"['much', 'eth', 'needed', 'sell', '?']",2024-09-05,Reddit,much eth needed sell,2450.4,2465.48,2347.6,2368.47,8336.76045531
+600,"[""n't"", 'junior', 'smart', 'contract', 'developer', 'position', '?']",2024-09-05,Reddit,junior smart contract developer position,2450.4,2465.48,2347.6,2368.47,8336.76045531
+601,"['find', 'latest', 'tech', 'blockchain', '?']",2024-09-05,Reddit,find latest tech blockchain,2450.4,2465.48,2347.6,2368.47,8336.76045531
+602,"['shared', 'sequencing']",2024-09-05,Reddit,shared sequencing,2450.4,2465.48,2347.6,2368.47,8336.76045531
+603,"['zero', 'burned', 'fee', ',', 'zero', 'reward', 'proposal']",2024-09-05,Reddit,zero burned fee zero reward proposal,2450.4,2465.48,2347.6,2368.47,8336.76045531
+604,"['happen', 'mica', 'law', 'fully', 'implemented', '?']",2024-09-05,Reddit,happen mica law fully implemented,2450.4,2465.48,2347.6,2368.47,8336.76045531
+605,"['rip', 'jakub', '``', 'kuba', ""''"", 'hejhal', ',', ""'cryptograss"", ""'"", 'fiddler', 'played', 'traditional', 'music', 'ethereum', 'event', '.', 'took', 'life', 'week', '27', '.']",2024-09-06,Reddit,rip jakub kuba hejhal cryptograss fiddler played traditional music ethereum event took life week,2368.17,2406.23,2150.0,2224.45,24793.74641602
+606,"['long', 'time', 'eth', 'holder', ',', 'first', 'time', 'self', 'custody']",2024-09-06,Reddit,long time eth holder first time self custody,2368.17,2406.23,2150.0,2224.45,24793.74641602
+607,['advice'],2024-09-07,Reddit,advice,2224.45,2309.57,2222.0,2273.1,10158.32377342
+608,"['someone', 'explain', 'layman', 'term', 'expected', 'future', 'eth', '?']",2024-09-07,Reddit,someone explain layman term expected future eth,2224.45,2309.57,2222.0,2273.1,10158.32377342
+609,"['tell', 'address', 'base']",2024-09-07,Reddit,tell address base,2224.45,2309.57,2222.0,2273.1,10158.32377342
+610,"['north', 'star', 'asset', 'management', 'inc.', 'invests', '$', '389,000', 'grayscale', 'ethereum', 'trust', '(', 'eth', ')', '(', 'otcmkts', ':', 'ethe', ')']",2024-09-08,etfdailynews,north star asset management inc invests grayscale ethereum trust eth otcmkts ethe,2273.11,2333.02,2242.87,2296.92,5762.0483519
+611,"['wallet', 'drainer', '...', 'way', 'get', '?']",2024-09-08,Reddit,wallet drainer way get,2273.11,2333.02,2242.87,2296.92,5762.0483519
+612,"['eth', 'shall', 'go', 'road', 'atom']",2024-09-08,Reddit,eth shall road atom,2273.11,2333.02,2242.87,2296.92,5762.0483519
+613,"['p2p', 'call', 'via', 'webrtc', 'decentralized', 'manner']",2024-09-08,Reddit,call via webrtc decentralized manner,2273.11,2333.02,2242.87,2296.92,5762.0483519
+614,"['practical', 'use', 'case', 'eth', 'using', 'right', '?']",2024-09-08,Reddit,practical use case eth using right,2273.11,2333.02,2242.87,2296.92,5762.0483519
+615,"['2024', ',', 'downside', '(', 'except', 'liquidity', ')', 'staking', 'eth', 'using', 'ledger', 'app', '?']",2024-09-09,Reddit,downside except liquidity staking eth using ledger app,2297.31,2380.0,2274.57,2359.08,10166.24451566
+616,"['ethereum', 'address', 'profit', 'drop', 'nearly', '20', '%', 'within', 'month']",2024-09-09,ABC Money,ethereum address profit drop nearly within month,2297.31,2380.0,2274.57,2359.08,10166.24451566
+617,"['use', 'case', 'central', 'eth', ""'s"", 'road', 'internet', 'money', 'value', 'store']",2024-09-09,Reddit,use case central eth road internet money value store,2297.31,2380.0,2274.57,2359.08,10166.24451566
+618,"['update', 'lido', 'contributor', 'risk', 'assessment', 'community', 'staking', 'module', '(', 'csm', ')', 'suggested', 'risk', 'parameter']",2024-09-09,Reddit,update lido contributor risk assessment community staking module csm suggested risk parameter,2297.31,2380.0,2274.57,2359.08,10166.24451566
+619,"['help', 'prove', 'eth', 'finance']",2024-09-09,Reddit,help prove eth finance,2297.31,2380.0,2274.57,2359.08,10166.24451566
+620,"['recurring', 'payment', 'smart', 'contract', '?']",2024-09-09,Reddit,recurring payment smart contract,2297.31,2380.0,2274.57,2359.08,10166.24451566
+621,"['opinion', 'rabby', 'wallet', '?', '?']",2024-09-09,Reddit,opinion rabby wallet,2297.31,2380.0,2274.57,2359.08,10166.24451566
+622,"['venmo', ',', 'paypal', 'integrate', 'en', 'domain']",2024-09-10,Reddit,venmo paypal integrate domain,2359.08,2398.0,2321.78,2387.78,6679.17892847
+623,"['🍄', 'stereum', 'ethereum', 'node', 'setup', '&', 'manager', '2.2.2']",2024-09-10,Reddit,stereum ethereum node setup manager,2359.08,2398.0,2321.78,2387.78,6679.17892847
+624,"['long', '2tb', 'ssd', 'drive', 'last', 'node', 'work', '?']",2024-09-10,Reddit,long ssd drive last node work,2359.08,2398.0,2321.78,2387.78,6679.17892847
+625,"['peepaneip-pectra', 'devnet', 'parithosh', 'jayanthi', '&', 'mario', 'vega']",2024-09-11,Reddit,peepaneip pectra devnet parithosh jayanthi mario vega,2387.78,2389.3,2278.81,2339.99,9148.13407412
+626,"['tornado', 'cash']",2024-09-11,Reddit,tornado cash,2387.78,2389.3,2278.81,2339.99,9148.13407412
+627,"['ethereum', '(', 'eth', ')', 'paint', 'grim', 'reversal', 'pattern', ',', 'solana', '(', 'sol', ')', 'whale', 'bullish', ',', 'bitcoin', '(', 'btc', ')', 'enters', '$', '60,000', 'path']",2024-09-11,Investing.com | Stock Market Quotes &amp; Financial News,ethereum eth paint grim reversal pattern solana sol whale bullish bitcoin btc enters path,2387.78,2389.3,2278.81,2339.99,9148.13407412
+628,"['ethereum', 'stablecoin', 'volume', 'hit', 'record', '$', '1.46', 'trillion', 'defi', 'demand', 'surge']",2024-09-11,Reddit,ethereum stablecoin volume hit record trillion defi demand surge,2387.78,2389.3,2278.81,2339.99,9148.13407412
+629,"['21shares', 'core', 'ethereum', 'etf', 'expands', 'custody', 'network', 'new', 'agreement']",2024-09-12,Investing.com | Stock Market Quotes &amp; Financial News,share core ethereum etf expands custody network new agreement,2340.0,2390.0,2315.98,2361.34,6591.83086741
+630,"['bitcoin', ',', 'ethereum', ',', 'dogecoin', 'move', 'sideways', 'inflation', 'data', 'dampens', 'aggressive', 'rate', 'cut', 'hope', ':', 'analyst', 'duo', 'say', ""'great"", 'time', ""'"", 'pile', 'king', 'crypto']",2024-09-12,benzinga,bitcoin ethereum dogecoin move sideways inflation data dampens aggressive rate cut hope analyst duo say great time pile king crypto,2340.0,2390.0,2315.98,2361.34,6591.83086741
+631,"['sec', 'signal', 'ethereum', 'security', 'settlement', 'etoro']",2024-09-12,Fortune,sec signal ethereum security settlement etoro,2340.0,2390.0,2315.98,2361.34,6591.83086741
+632,"['sec', 'signal', 'ethereum', 'security', '-', 'u.today']",2024-09-12,Google News Business GB,sec signal ethereum security today,2340.0,2390.0,2315.98,2361.34,6591.83086741
+633,"['could', 'frontrun', 'without', 'expense', 'others', '?']",2024-09-12,Reddit,could frontrun without expense others,2340.0,2390.0,2315.98,2361.34,6591.83086741
+634,"['need', 'help', 'transaction']",2024-09-12,Reddit,need help transaction,2340.0,2390.0,2315.98,2361.34,6591.83086741
+635,"['devcon', 'student', 'ticket', 'approval', 'time']",2024-09-12,Reddit,devcon student ticket approval time,2340.0,2390.0,2315.98,2361.34,6591.83086741
+636,"['ethereum', 'name', 'service', 'protects', 'address', 'poisoning', 'copy/paste', 'mistake']",2024-09-12,Reddit,ethereum name service protects address poisoning copy paste mistake,2340.0,2390.0,2315.98,2361.34,6591.83086741
+637,"['sharing', 'fitness', 'dapp', 'project']",2024-09-12,Reddit,sharing fitness dapp project,2340.0,2390.0,2315.98,2361.34,6591.83086741
+638,"['help', 'understand', 'hacked', 'wallet', '.']",2024-09-12,Reddit,help understand hacked wallet,2340.0,2390.0,2315.98,2361.34,6591.83086741
+639,"['ethereum', 'lst', ""'s"", 'token']",2024-09-12,Reddit,ethereum lst token,2340.0,2390.0,2315.98,2361.34,6591.83086741
+640,"['stablecoin', 'overcolateralized']",2024-09-13,Reddit,stablecoin overcolateralized,2361.34,2465.0,2338.17,2440.89,8555.96802353
+641,"['eth2spec', 'maintained', 'anymore', '?']",2024-09-13,Reddit,ethspec maintained anymore,2361.34,2465.0,2338.17,2440.89,8555.96802353
+642,"['bridging', 'weth', 'polygon', 'eth', 'network']",2024-09-13,Reddit,bridging weth polygon eth network,2361.34,2465.0,2338.17,2440.89,8555.96802353
+643,"['confusion', 'definition', 'ethereum', 'yellow', 'paper']",2024-09-13,Reddit,confusion definition ethereum yellow paper,2361.34,2465.0,2338.17,2440.89,8555.96802353
+644,"['would', 'take', 'replace', 'ethereum', ""'s"", 'transaction', 'signature', 'scheme', '?']",2024-09-13,Reddit,would take replace ethereum transaction signature scheme,2361.34,2465.0,2338.17,2440.89,8555.96802353
+645,"['fund', 'stuck', 'walleth', 'android', 'wallet']",2024-09-14,Reddit,fund stuck walleth android wallet,2441.43,2442.15,2381.0,2416.99,10018.42273076
+646,"['latest', 'week', 'ethereum', 'news', ':', 'danny', 'ryan', 'taking', 'indefinite', 'break', ',', 'pectra', 'upgrade', 'split', 'proposed', '&', 'cbbtc', 'live']",2024-09-14,Reddit,latest week ethereum news danny ryan taking indefinite break pectra upgrade split proposed cbbtc live,2441.43,2442.15,2381.0,2416.99,10018.42273076
+647,"['ai', 'integration', 'dapps']",2024-09-14,Reddit,integration dapps,2441.43,2442.15,2381.0,2416.99,10018.42273076
+648,"['vaneck', 'announces', 'ethereum', 'etf', 'shut']",2024-09-14,Reddit,vaneck announces ethereum etf shut,2441.43,2442.15,2381.0,2416.99,10018.42273076
+649,"['exploring', 'ethereum', 'validator', ':', 'become', 'validator']",2024-09-15,Reddit,exploring ethereum validator become validator,2417.0,2429.52,2286.06,2316.87,3905.95695876
+650,"['comprehensive', 'guide', ':', 'calculate', 'celsius', 'loss', '(', 'example', '!', ')']",2024-09-15,Reddit,comprehensive guide calculate celsius loss example,2417.0,2429.52,2286.06,2316.87,3905.95695876
+651,"['tip', 'protect', 'node', 'rpc', 'hacking', '?']",2024-09-15,Reddit,tip protect node rpc hacking,2417.0,2429.52,2286.06,2316.87,3905.95695876
+652,"['still', 'keep', 'eth', '?']",2024-09-15,Reddit,still keep eth,2417.0,2429.52,2286.06,2316.87,3905.95695876
+653,"['uk', 'parliament', 'introduces', 'bill', 'recognize', 'bitcoin', 'crypto', 'personal', 'property']",2024-09-15,Reddit,parliament introduces bill recognize bitcoin crypto personal property,2417.0,2429.52,2286.06,2316.87,3905.95695876
+654,"['beginner', 'question']",2024-09-16,Reddit,beginner question,2316.26,2333.53,2253.06,2295.03,8896.80118591
+655,"['lido', '28', '%', 'staked', 'eth', '?', 'getting', 'closer', '33', '%', ',', 'also', 'prysm', 'used', '37', '%', '...', 'thoughs', '?']",2024-09-16,Reddit,lido staked eth getting closer also prysm used thoughs,2316.26,2333.53,2253.06,2295.03,8896.80118591
+656,"['kyc', 'add', 'security', 'without', 'compromising', 'decentralization', '?', '🤔']",2024-09-16,Reddit,kyc add security without compromising decentralization,2316.26,2333.53,2253.06,2295.03,8896.80118591
+657,"['security', 'auditing', 'framework', 'smart', 'contract', 'decentralized', 'finance', '?', '🔒']",2024-09-16,Reddit,security auditing framework smart contract decentralized finance,2316.26,2333.53,2253.06,2295.03,8896.80118591
+658,"['delta', 'prime', 'defi', 'project', 'hacked', '~6', 'million', 'dollar']",2024-09-16,Reddit,delta prime defi project hacked million dollar,2316.26,2333.53,2253.06,2295.03,8896.80118591
+659,"['vitalik', 'speaks', 'importance', 'solo', 'staking', 'ethereum', ""'s"", 'future', '!']",2024-09-16,Reddit,vitalik speaks importance solo staking ethereum future,2316.26,2333.53,2253.06,2295.03,8896.80118591
+660,"['expected', 'eth', 'node', 'apr', '?']",2024-09-17,Reddit,expected eth node apr,2295.03,2392.12,2262.99,2341.69,8919.5689853
+661,"['avalanche', '(', 'avax', ')', 'gain', 'traction', 'ethereum', 'alternative']",2024-09-17,ocolympian,avalanche avax gain traction ethereum alternative,2295.03,2392.12,2262.99,2341.69,8919.5689853
+662,"['validator', 'node', 'better', ':', 'rocket', 'pool', 'puffeth', '?']",2024-09-17,Reddit,validator node better rocket pool puffeth,2295.03,2392.12,2262.99,2341.69,8919.5689853
+663,"['safest', 'way', 'stake', '$', '1,000,000', '?']",2024-09-17,Reddit,safest way stake,2295.03,2392.12,2262.99,2341.69,8919.5689853
+664,"['hemi', 'lab', 'raise', '$', '15', 'million', 'binance', 'launch', 'advanced', 'modular', 'blockchain', 'network', 'bitcoin', 'ethereum']",2024-09-18,Fortune,hemi lab raise million binance launch advanced modular blockchain network bitcoin ethereum,2341.69,2374.85,2277.26,2374.75,10610.49035551
+665,"['ethereum', 'classic', '1-day', 'volume', 'hit', '$', '107.36', 'million', '(', 'etc', ')']",2024-09-18,americanbankingnews,ethereum classic day volume hit million etc,2341.69,2374.85,2277.26,2374.75,10610.49035551
+666,"['ethereum', 'name', 'service', '(', 'en', ')', 'one', 'day', 'trading', 'volume', 'top', '$', '47.94', 'million']",2024-09-18,americanbankingnews,ethereum name service one day trading volume top million,2341.69,2374.85,2277.26,2374.75,10610.49035551
+667,"['ethereum', '’', 'got', 'talent', '?', 'vitalik', '’', 'token2049', 'serenade', 'echo', 'legendary', 'eth', '2.0', 'rap']",2024-09-18,Reddit,ethereum got talent vitalik token serenade echo legendary eth rap,2341.69,2374.85,2277.26,2374.75,10610.49035551
+668,"['account', 'abstraction', ':', 'crypto', 'beyond', 'private', 'key']",2024-09-18,Reddit,account abstraction crypto beyond private key,2341.69,2374.85,2277.26,2374.75,10610.49035551
+669,"['psa', '-', ""n't"", 'get', 'computer', 'infected', 'new', 'captcha', 'infection', 'tactic']",2024-09-18,Reddit,psa get computer infected new captcha infection tactic,2341.69,2374.85,2277.26,2374.75,10610.49035551
+670,"['staking', 'third', 'party', 'versus', 'becoming', 'validator', ',', 'help', '?']",2024-09-18,Reddit,staking third party versus becoming validator help,2341.69,2374.85,2277.26,2374.75,10610.49035551
+671,"['guide', 'multi-currency', 'crypto', 'casino', ':', 'play', 'bitcoin', ',', 'ethereum']",2024-09-18,Insights Success,guide multi currency crypto casino play bitcoin ethereum,2341.69,2374.85,2277.26,2374.75,10610.49035551
+672,"['ethereum', 'reach', '1-day', 'volume', '$', '18.87', 'billion', '(', 'eth', ')']",2024-09-19,americanbankingnews,ethereum reach day volume billion eth,2374.47,2493.44,2374.09,2464.52,17506.74997719
+673,"['ethereum', 'classic', 'trading', '0.6', '%', 'week', '(', 'etc', ')']",2024-09-19,americanbankingnews,ethereum classic trading week etc,2374.47,2493.44,2374.09,2464.52,17506.74997719
+674,"['ethereum', 'benefit', 'fed', 'decision']",2024-09-19,actionforex,ethereum benefit fed decision,2374.47,2493.44,2374.09,2464.52,17506.74997719
+675,"['ethereum', 'classic', '(', 'etc', ')', 'price', 'top', '$', '19.06', 'top', 'exchange']",2024-09-19,americanbankingnews,ethereum classic etc price top top exchange,2374.47,2493.44,2374.09,2464.52,17506.74997719
+676,"['ethereum', '(', 'eth', ')', 'price', 'reach', '$', '2,476.26', 'exchange']",2024-09-19,americanbankingnews,ethereum eth price reach exchange,2374.47,2493.44,2374.09,2464.52,17506.74997719
+677,"['ethereum', 'name', 'service', '(', 'en', ')', 'price', 'reach', '$', '18.18']",2024-09-19,americanbankingnews,ethereum name service price reach,2374.47,2493.44,2374.09,2464.52,17506.74997719
+678,"['ethereum', 'name', 'service', '(', 'en', ')', 'price', 'top', '$', '17.61', 'exchange']",2024-09-19,americanbankingnews,ethereum name service price top exchange,2374.47,2493.44,2374.09,2464.52,17506.74997719
+679,"['research', 'topic', 'smart', 'contract', 'scam']",2024-09-19,Reddit,research topic smart contract scam,2374.47,2493.44,2374.09,2464.52,17506.74997719
+680,"['ethereum', 'classic', '(', 'etc', ')', 'price', 'reach', '$', '18.63']",2024-09-19,americanbankingnews,ethereum classic etc price reach,2374.47,2493.44,2374.09,2464.52,17506.74997719
+681,"['transferring', 'fee', '1', 'exchange', 'another']",2024-09-19,Reddit,transferring fee exchange another,2374.47,2493.44,2374.09,2464.52,17506.74997719
+682,"['ethereum', 'name', 'service', 'hit', 'one', 'day', 'volume', '$', '70.25', 'million', '(', 'en', ')']",2024-09-19,americanbankingnews,ethereum name service hit one day volume million,2374.47,2493.44,2374.09,2464.52,17506.74997719
+683,"['need', 'sepolia', 'eth', 'dissertation']",2024-09-20,Reddit,need sepolia eth dissertation,2464.52,2570.3,2437.9,2561.44,18766.28708682
+684,"['self', 'custodial', 'app', 'let', 'business', 'generate', 'qr', 'code', 'usdc', 'payment']",2024-09-20,Reddit,self custodial app let business generate code usdc payment,2464.52,2570.3,2437.9,2561.44,18766.28708682
+685,"['radically', 'simple', 'guide', 'unlocking', 'power', 'linux', 'web3', '|', 'cartesi']",2024-09-20,Reddit,radically simple guide unlocking power linux web cartesi,2464.52,2570.3,2437.9,2561.44,18766.28708682
+686,"['ethereum', 'film', 'release']",2024-09-20,Reddit,ethereum film release,2464.52,2570.3,2437.9,2561.44,18766.28708682
+687,"['vitalik', 'buterin', 'political', 'philosophy', '21st', 'century']",2024-09-20,Reddit,vitalik buterin political philosophy century,2464.52,2570.3,2437.9,2561.44,18766.28708682
+688,"['earth', 'get', 'geth', 'working', 'prysm', '?', '?', '?']",2024-09-20,Reddit,earth get geth working prysm,2464.52,2570.3,2437.9,2561.44,18766.28708682
+689,"['ethereum', 'trading', '4.4', '%', 'week', '(', 'eth', ')']",2024-09-20,americanbankingnews,ethereum trading week eth,2464.52,2570.3,2437.9,2561.44,18766.28708682
+690,"['ethereum', 'name', 'service', 'one', 'day', 'trading', 'volume', 'reach', '$', '74.51', 'million', '(', 'en', ')']",2024-09-20,americanbankingnews,ethereum name service one day trading volume reach million,2464.52,2570.3,2437.9,2561.44,18766.28708682
+691,"['ethereum', 'classic', 'trading', '0.9', '%', 'last', '7', 'day', '(', 'etc', ')']",2024-09-20,americanbankingnews,ethereum classic trading last day etc,2464.52,2570.3,2437.9,2561.44,18766.28708682
+692,"['ethereum', 'classic', '(', 'etc', ')', 'price', '2.7', '%', 'last', '7', 'day']",2024-09-20,americanbankingnews,ethereum classic etc price last day,2464.52,2570.3,2437.9,2561.44,18766.28708682
+693,"['ethereum', '(', 'eth', ')', 'hit', '24-hour', 'volume', '$', '19.89', 'billion']",2024-09-20,americanbankingnews,ethereum eth hit hour volume billion,2464.52,2570.3,2437.9,2561.44,18766.28708682
+694,"['ethereum', 'classic', 'price', '1.4', '%', 'last', 'week', '(', 'etc', ')']",2024-09-20,americanbankingnews,ethereum classic price last week etc,2464.52,2570.3,2437.9,2561.44,18766.28708682
+695,"['grayscale', 'ethereum', 'classic', 'trust', '(', 'etc', ')', '(', 'otcmkts', ':', 'etcg', ')', 'share', '0.6', '%']",2024-09-20,americanbankingnews,grayscale ethereum classic trust etc otcmkts etcg share,2464.52,2570.3,2437.9,2561.44,18766.28708682
+696,"['ethereum', '(', 'eth', ')', 'trading', '5.6', '%', 'higher', 'week']",2024-09-21,americanbankingnews,ethereum eth trading higher week,2561.6,2623.53,2530.01,2615.0,22753.50648389
+697,"['vorbit', 'ssf', 'circular', 'spiral', 'finality', ':', 'validator', 'selection', 'distribution']",2024-09-21,Reddit,vorbit ssf circular spiral finality validator selection distribution,2561.6,2623.53,2530.01,2615.0,22753.50648389
+698,"['vitalik', 'buterin', 'documentary', '“', 'vitalik', ':', 'ethereum', 'story', '”', 'available', 'streaming']",2024-09-21,Reddit,vitalik buterin documentary vitalik ethereum story available streaming,2561.6,2623.53,2530.01,2615.0,22753.50648389
+699,"['ethereum', 'price', 'reach', '$', '2,576.09', '(', 'eth', ')']",2024-09-21,americanbankingnews,ethereum price reach eth,2561.6,2623.53,2530.01,2615.0,22753.50648389
+700,"['ethereum', 'one', 'day', 'volume', 'top', '$', '11.41', 'billion', '(', 'eth', ')']",2024-09-21,americanbankingnews,ethereum one day volume top billion eth,2561.6,2623.53,2530.01,2615.0,22753.50648389
+701,"['ethereum', 'name', 'service', 'market', 'cap', 'hit', '$', '600.65', 'million', '(', 'en', ')']",2024-09-22,americanbankingnews,ethereum name service market cap hit million,2615.01,2633.03,2528.08,2581.99,25518.64134239
+702,"['ethereum', 'classic', '(', 'etc', ')', 'one', 'day', 'trading', 'volume', 'top', '$', '99.75', 'million']",2024-09-22,americanbankingnews,ethereum classic etc one day trading volume top million,2615.01,2633.03,2528.08,2581.99,25518.64134239
+703,"['query', 'ethereum', 'mainnet', 'snapshot', '?', '[', 'beginner', ']']",2024-09-22,Reddit,query ethereum mainnet snapshot beginner,2615.01,2633.03,2528.08,2581.99,25518.64134239
+704,"['ethereum', 'trading', '10.1', '%', 'week', '(', 'eth', ')']",2024-09-22,americanbankingnews,ethereum trading week eth,2615.01,2633.03,2528.08,2581.99,25518.64134239
+705,"['ethereum', 'name', 'service', 'trading', '6.8', '%', 'last', '7', 'day', '(', 'en', ')']",2024-09-22,americanbankingnews,ethereum name service trading last day,2615.01,2633.03,2528.08,2581.99,25518.64134239
+706,"['ethereum', 'classic', '(', 'etc', ')', 'reach', 'market', 'cap', '$', '2.88', 'billion']",2024-09-22,americanbankingnews,ethereum classic etc reach market cap billion,2615.01,2633.03,2528.08,2581.99,25518.64134239
+707,"['ethereum', '(', 'eth', ')', 'market', 'cap', 'achieves', '$', '312.55', 'billion']",2024-09-22,americanbankingnews,ethereum eth market cap achieves billion,2615.01,2633.03,2528.08,2581.99,25518.64134239
+708,"['ethereum', 'classic', 'price', '2.8', '%', 'last', 'week', '(', 'etc', ')']",2024-09-22,americanbankingnews,ethereum classic price last week etc,2615.01,2633.03,2528.08,2581.99,25518.64134239
+709,"['ethereum', 'reach', '24-hour', 'volume', '$', '10.07', 'billion', '(', 'eth', ')']",2024-09-22,americanbankingnews,ethereum reach hour volume billion eth,2615.01,2633.03,2528.08,2581.99,25518.64134239
+710,"['one', 'original', 'holder', 'founder', '?']",2024-09-22,Reddit,one original holder founder,2615.01,2633.03,2528.08,2581.99,25518.64134239
+711,"['question', 'next', 'upgrade']",2024-09-23,Reddit,question next upgrade,2582.0,2701.15,2541.35,2646.91,35172.38885486
+712,"['top', 'web3', 'platform', 'transforming', 'philanthropy', '2024']",2024-09-23,Reddit,top web platform transforming philanthropy,2582.0,2701.15,2541.35,2646.91,35172.38885486
+713,"['ethereum', 'classic', 'hit', 'market', 'cap', '$', '2.86', 'billion', '(', 'etc', ')']",2024-09-23,americanbankingnews,ethereum classic hit market cap billion etc,2582.0,2701.15,2541.35,2646.91,35172.38885486
+714,"['ethereum', 'price', 'hit', '$', '2,678.03', 'major', 'exchange', '(', 'eth', ')']",2024-09-23,americanbankingnews,ethereum price hit major exchange eth,2582.0,2701.15,2541.35,2646.91,35172.38885486
+715,"['ethereum', 'gain', '15', '%', 'week', '—', 'recovery', '$', '3k', 'back', 'sight', '?']",2024-09-23,theoptionsinsider,ethereum gain week recovery back sight,2582.0,2701.15,2541.35,2646.91,35172.38885486
+716,"['ethereum', 'classic', '(', 'etc', ')', 'trading', '9.2', '%', 'higher', 'last', '7', 'day']",2024-09-23,americanbankingnews,ethereum classic etc trading higher last day,2582.0,2701.15,2541.35,2646.91,35172.38885486
+717,"['ethereum', 'name', 'service', 'one', 'day', 'volume', 'reach', '$', '63.43', 'million', '(', 'en', ')']",2024-09-23,americanbankingnews,ethereum name service one day volume reach million,2582.0,2701.15,2541.35,2646.91,35172.38885486
+718,"['ethereum', 'name', 'service', 'reach', 'market', 'cap', '$', '618.79', 'million', '(', 'en', ')']",2024-09-23,americanbankingnews,ethereum name service reach market cap million,2582.0,2701.15,2541.35,2646.91,35172.38885486
+719,['rwa'],2024-09-24,Reddit,rwa,2647.16,2669.98,2592.47,2653.13,12109.0493082
+720,"['crypto', 'arbitrage', 'dex', 'even', 'work', '?']",2024-09-24,Reddit,crypto arbitrage dex even work,2647.16,2669.98,2592.47,2653.13,12109.0493082
+721,"['ethereum', 'name', 'service', 'price', 'reach', '$', '18.65', '(', 'en', ')']",2024-09-24,americanbankingnews,ethereum name service price reach,2647.16,2669.98,2592.47,2653.13,12109.0493082
+722,"[""'s"", 'latest', 'news', 'world', 'eth', '?']",2024-09-24,Reddit,latest news world eth,2647.16,2669.98,2592.47,2653.13,12109.0493082
+723,"['jaredfromsubway.eth', 'mev', 'attack', '.']",2024-09-24,Reddit,jaredfromsubway eth mev attack,2647.16,2669.98,2592.47,2653.13,12109.0493082
+724,"['ethereum', '(', 'eth', ')', 'top', 'one', 'day', 'volume', '$', '16.27', 'billion']",2024-09-24,americanbankingnews,ethereum eth top one day volume billion,2647.16,2669.98,2592.47,2653.13,12109.0493082
+725,"['ethereum', 'classic', '1-day', 'trading', 'volume', 'top', '$', '106.25', 'million', '(', 'etc', ')']",2024-09-24,americanbankingnews,ethereum classic day trading volume top million etc,2647.16,2669.98,2592.47,2653.13,12109.0493082
+726,"['ethereum', 'name', 'service', 'price', 'hit', '$', '18.93', 'exchange', '(', 'en', ')']",2024-09-24,americanbankingnews,ethereum name service price hit exchange,2647.16,2669.98,2592.47,2653.13,12109.0493082
+727,"['practical', 'implication', 'finality', 'time', 'l2s']",2024-09-24,Reddit,practical implication finality time,2647.16,2669.98,2592.47,2653.13,12109.0493082
+728,"['bitcoin', '(', 'btc', ')', 'golden', 'cross', 'coming', ',', 'ethereum', '(', 'eth', ')', 'reclaims', 'bullish', 'trend', ',', 'binance', 'coin', '(', 'bnb', ')', 'break', '65-day', 'resistance']",2024-09-25,Investing.com | Stock Market Quotes &amp; Financial News,bitcoin btc golden cross coming ethereum eth reclaims bullish trend binance coin bnb break day resistance,2653.14,2672.53,2554.51,2580.05,8222.41470536
+729,"['ethereum', 'classic', '(', 'etc', ')', 'reach', '24', 'hour', 'volume', '$', '118.53', 'million']",2024-09-25,americanbankingnews,ethereum classic etc reach hour volume million,2653.14,2672.53,2554.51,2580.05,8222.41470536
+730,"['ethereum', '(', 'eth', ')', 'price', '14.3', '%', 'last', 'week']",2024-09-25,americanbankingnews,ethereum eth price last week,2653.14,2672.53,2554.51,2580.05,8222.41470536
+731,"['profanity', 'address', '.eth', 'name', 'recovery']",2024-09-25,Reddit,profanity address eth name recovery,2653.14,2672.53,2554.51,2580.05,8222.41470536
+732,"['best', 'place', 'add', 'liquidity', 'meme', 'coin', 'ethereum', '?']",2024-09-25,Reddit,best place add liquidity meme coin ethereum,2653.14,2672.53,2554.51,2580.05,8222.41470536
+733,"['create', 'sustainable', 'social', 'token', 'artist', '?']",2024-09-25,Reddit,create sustainable social token artist,2653.14,2672.53,2554.51,2580.05,8222.41470536
+734,"['08/15/2024', 'hacker', 'transferred', 'cryptocurrencies', '(', '$', '70,000', ')', 'metamask', 'account']",2024-09-25,Reddit,hacker transferred cryptocurrencies metamask account,2653.14,2672.53,2554.51,2580.05,8222.41470536
+735,"['web3', 'startup', ',', 'infrastructure', 'dapps', '?']",2024-09-25,Reddit,web startup infrastructure dapps,2653.14,2672.53,2554.51,2580.05,8222.41470536
+736,"['ethereum', 'name', 'service', '(', 'en', ')', 'price', '9.5', '%', 'last', 'week']",2024-09-26,americanbankingnews,ethereum name service price last week,2579.15,2664.49,2559.6,2632.14,9422.33447424
+737,"['ethereum', 'name', 'service', '(', 'en', ')', 'price', 'hit', '$', '19.25']",2024-09-26,americanbankingnews,ethereum name service price hit,2579.15,2664.49,2559.6,2632.14,9422.33447424
+738,"['ethereum', 'name', 'service', '(', 'en', ')', 'reach', 'market', 'cap', '$', '625.77', 'million']",2024-09-26,americanbankingnews,ethereum name service reach market cap million,2579.15,2664.49,2559.6,2632.14,9422.33447424
+739,"['eth', 'l2', 'token', 'usage', '?']",2024-09-26,Reddit,eth token usage,2579.15,2664.49,2559.6,2632.14,9422.33447424
+740,"['non-kyc', 'exchange', 'sell', 'eth', 'euro', '?']",2024-09-26,Reddit,non kyc exchange sell eth euro,2579.15,2664.49,2559.6,2632.14,9422.33447424
+741,"['ethereum', 'trading', 'reset', 'day', '?']",2024-09-26,Reddit,ethereum trading reset day,2579.15,2664.49,2559.6,2632.14,9422.33447424
+742,"['ethereum', 'name', 'service', 'market', 'capitalization', 'achieves', '$', '690.44', 'million', '(', 'en', ')']",2024-09-27,americanbankingnews,ethereum name service market capitalization achieves million,2632.14,2728.44,2617.2,2695.01,10495.39831393
+743,"['ethereum', 'hovers', '2,650', 'area']",2024-09-27,actionforex,ethereum hovers area,2632.14,2728.44,2617.2,2695.01,10495.39831393
+744,"['ethereum', 'network', ':', 'comprehensive', 'overview']",2024-09-27,ABC Money,ethereum network comprehensive overview,2632.14,2728.44,2617.2,2695.01,10495.39831393
+745,"['ethereum', 'achieves', 'market', 'cap', '$', '315.96', 'billion', '(', 'eth', ')']",2024-09-27,americanbankingnews,ethereum achieves market cap billion eth,2632.14,2728.44,2617.2,2695.01,10495.39831393
+746,"['ethereum', 'name', 'service', 'top', '24', 'hour', 'trading', 'volume', '$', '77.25', 'million', '(', 'en', ')']",2024-09-27,americanbankingnews,ethereum name service top hour trading volume million,2632.14,2728.44,2617.2,2695.01,10495.39831393
+747,"['ethereum', 'classic', '(', 'etc', ')', 'price', 'reach', '$', '20.71', 'major', 'exchange']",2024-09-27,americanbankingnews,ethereum classic etc price reach major exchange,2632.14,2728.44,2617.2,2695.01,10495.39831393
+748,"['desperate', '.', 'swap', 'failing', '24', 'hr', '.', '``', 'contract', 'function', '``', 'approve', ""''"", 'reverted', ""''"", '.']",2024-09-27,Reddit,desperate swap failing contract function approve reverted,2632.14,2728.44,2617.2,2695.01,10495.39831393
+749,"['base', 'blockchain', 'coinbase', 'showing', 'explosive', 'growth']",2024-09-27,Reddit,base blockchain coinbase showing explosive growth,2632.14,2728.44,2617.2,2695.01,10495.39831393
+750,"['🌍🐍', 'meet', 'ethersnek', ':', 'cosmic', 'snake', 'ether', '🐍🌍']",2024-09-27,Reddit,meet ethersnek cosmic snake ether,2632.14,2728.44,2617.2,2695.01,10495.39831393
+751,"['much', 'agree', 'hot', 'wallet', '?']",2024-09-28,Reddit,much agree hot wallet,2695.01,2702.63,2650.66,2678.61,5321.16863577
+752,"['possible', 'check', 'data', 'type', 'present', 'function', '?']",2024-09-28,Reddit,possible check data type present function,2695.01,2702.63,2650.66,2678.61,5321.16863577
+753,"['value', 'proposition', 'incentivizing', 'mass', 'end', 'user', 'adoption', 'emerge', '?']",2024-09-28,Reddit,value proposition incentivizing mass end user adoption emerge,2695.01,2702.63,2650.66,2678.61,5321.16863577
+754,"['bitwise', 'ethereum', 'strategy', 'etf', '(', 'nysearca', ':', 'aeth', ')', 'stock', 'price', '3.1', '%']",2024-09-28,americanbankingnews,bitwise ethereum strategy etf nysearca aeth stock price,2695.01,2702.63,2650.66,2678.61,5321.16863577
+755,"['best', 'ethereum', 'layer', '2', 'privacy']",2024-09-28,Reddit,best ethereum layer privacy,2695.01,2702.63,2650.66,2678.61,5321.16863577
+756,"['ethereum', 'classic', '(', 'etc', ')', 'price', 'hit', '$', '20.80', 'major', 'exchange']",2024-09-28,americanbankingnews,ethereum classic etc price hit major exchange,2695.01,2702.63,2650.66,2678.61,5321.16863577
+757,"['ethereum', 'market', 'cap', 'hit', '$', '323.92', 'billion', '(', 'eth', ')']",2024-09-28,americanbankingnews,ethereum market cap hit billion eth,2695.01,2702.63,2650.66,2678.61,5321.16863577
+758,"['l2', 'equivalent/fork', 'liquity', ""'s"", 'interest-free', 'lending', 'protocol', '?']",2024-09-28,Reddit,equivalent fork liquity interest free lending protocol,2695.01,2702.63,2650.66,2678.61,5321.16863577
+759,"['ethereum', 'classic', '24', 'hour', 'trading', 'volume', 'reach', '$', '115.14', 'million', '(', 'etc', ')']",2024-09-28,americanbankingnews,ethereum classic hour trading volume reach million etc,2695.01,2702.63,2650.66,2678.61,5321.16863577
+760,"['ethereum', '(', 'eth', ')', '24-hour', 'volume', 'reach', '$', '14.62', 'billion']",2024-09-28,americanbankingnews,ethereum eth hour volume reach billion,2695.01,2702.63,2650.66,2678.61,5321.16863577
+761,"['ethereum', 'classic', 'reach', '24', 'hour', 'volume', '$', '108.71', 'million', '(', 'etc', ')']",2024-09-28,americanbankingnews,ethereum classic reach hour volume million etc,2695.01,2702.63,2650.66,2678.61,5321.16863577
+762,"['anyone', ""'s"", 'interested', 'evm', ',', 'added', 'extra', 'explanation', 'huff', 'doc', 'simple', 'storage', 'tutorial', 'newcomer']",2024-09-29,Reddit,anyone interested evm added extra explanation huff doc simple storage tutorial newcomer,2675.74,2683.66,2635.5,2657.89,5689.95466805
+763,"['ethereum', 'classic', '(', 'etc', ')', 'top', 'one', 'day', 'volume', '$', '106.77', 'million']",2024-09-29,americanbankingnews,ethereum classic etc top one day volume million,2675.74,2683.66,2635.5,2657.89,5689.95466805
+764,"['ethereum', 'name', 'service', 'reach', 'market', 'capitalization', '$', '663.13', 'million', '(', 'en', ')']",2024-09-29,americanbankingnews,ethereum name service reach market capitalization million,2675.74,2683.66,2635.5,2657.89,5689.95466805
+765,"['fidelity', 'ethereum', 'fund', '(', 'bat', ':', 'feth', ')', 'stock', 'price', '2', '%']",2024-09-29,etfdailynews,fidelity ethereum fund bat feth stock price,2675.74,2683.66,2635.5,2657.89,5689.95466805
+766,"['ethereum', 'trading', '2.4', '%', 'week', '(', 'eth', ')']",2024-09-29,americanbankingnews,ethereum trading week eth,2675.74,2683.66,2635.5,2657.89,5689.95466805
+767,"['ethereum', 'name', 'service', '(', 'en', ')', 'hit', 'market', 'capitalization', '$', '651.18', 'million']",2024-09-29,americanbankingnews,ethereum name service hit market capitalization million,2675.74,2683.66,2635.5,2657.89,5689.95466805
+768,"['ethereum', 'classic', '(', 'etc', ')', 'one', 'day', 'trading', 'volume', 'top', '$', '98.52', 'million']",2024-09-29,americanbankingnews,ethereum classic etc one day trading volume top million,2675.74,2683.66,2635.5,2657.89,5689.95466805
+769,"['ethereum', '(', 'eth', ')', 'price', 'top', '$', '2,663.20', 'top', 'exchange']",2024-09-29,americanbankingnews,ethereum eth price top top exchange,2675.74,2683.66,2635.5,2657.89,5689.95466805
+770,"['ethereum', 'name', 'service', '(', 'en', ')', 'price', 'top', '$', '20.02']",2024-09-29,americanbankingnews,ethereum name service price top,2675.74,2683.66,2635.5,2657.89,5689.95466805
+771,"['best', 'practice', 'diversity', 'execution', 'consensus', 'client']",2024-09-29,Reddit,best practice diversity execution consensus client,2675.74,2683.66,2635.5,2657.89,5689.95466805
+772,"['question', ':', 'ethereum', 'messaging', 'system', ',', 'actually', 'work', '?']",2024-09-29,Reddit,question ethereum messaging system actually work,2675.74,2683.66,2635.5,2657.89,5689.95466805
+773,"['devcon', '-', 'ticket', 'ticket', '?']",2024-09-29,Reddit,devcon ticket ticket,2675.74,2683.66,2635.5,2657.89,5689.95466805
+774,"['using', 'ᴇɪᴘ‑197', 'precompile', ',', 'risk', 'forgery', 'allowing', 'degeneracy', 'bilinear', 'pairing', 'using', 'groth16', 'public', 'input', '?', ',', 'rework', 'groth16', 'protocol', 'order', 'let', 'verifier', 'ditching', 'pairing', 'e', '(', 'c', ',', 'vk', ')', 'calling', 'precompile', 'gas', 'saving', 'measure', '?']",2024-09-29,Reddit,using ᴇɪᴘ precompile risk forgery allowing degeneracy bilinear pairing using groth public input rework groth protocol order let verifier ditching pairing calling precompile gas saving measure,2675.74,2683.66,2635.5,2657.89,5689.95466805
+775,"['update', 'public', 'good', 'project', ',', 'building', 'ultimate', 'tool', 'web3', 'community']",2024-09-29,Reddit,update public good project building ultimate tool web community,2675.74,2683.66,2635.5,2657.89,5689.95466805
+776,"['ethereum', 'trading', '1.2', '%', 'higher', 'last', 'week', '(', 'eth', ')']",2024-09-30,americanbankingnews,ethereum trading higher last week eth,2658.03,2662.14,2575.4,2602.97,8302.72305578
+777,"['ethereum', '(', 'eth', ')', 'top', '24', 'hour', 'volume', '$', '14.71', 'billion']",2024-09-30,americanbankingnews,ethereum eth top hour volume billion,2658.03,2662.14,2575.4,2602.97,8302.72305578
+778,"['ethereum', 'name', 'service', 'trading', '0', '%', 'higher', 'week', '(', 'en', ')']",2024-09-30,americanbankingnews,ethereum name service trading higher week,2658.03,2662.14,2575.4,2602.97,8302.72305578
+779,"['ethereum', 'classic', 'price', 'hit', '$', '19.78', '(', 'etc', ')']",2024-09-30,americanbankingnews,ethereum classic price hit etc,2658.03,2662.14,2575.4,2602.97,8302.72305578
+780,"['ethereum', '(', 'eth', ')', 'reach', 'market', 'cap', '$', '313.31', 'billion']",2024-09-30,americanbankingnews,ethereum eth reach market cap billion,2658.03,2662.14,2575.4,2602.97,8302.72305578
+781,"['ethereum', 'name', 'service', 'reach', '24', 'hour', 'volume', '$', '70.07', 'million', '(', 'en', ')']",2024-09-30,americanbankingnews,ethereum name service reach hour volume million,2658.03,2662.14,2575.4,2602.97,8302.72305578
+782,"['ethereum', 'classic', '(', 'etc', ')', 'one', 'day', 'trading', 'volume', 'hit', '$', '122.85', 'million']",2024-09-30,americanbankingnews,ethereum classic etc one day trading volume hit million,2658.03,2662.14,2575.4,2602.97,8302.72305578
+783,"['rise', 'cryptocurrency', 'impact', 'modern', 'industry']",2024-09-30,Insights Success,rise cryptocurrency impact modern industry,2658.03,2662.14,2575.4,2602.97,8302.72305578
+784,"['ethereum', 'classic', 'price', 'reach', '$', '20.01', '(', 'etc', ')']",2024-09-30,americanbankingnews,ethereum classic price reach etc,2658.03,2662.14,2575.4,2602.97,8302.72305578
+785,"['block', 'gas', 'limit', '>', '30m', '?']",2024-09-30,Reddit,block gas limit,2658.03,2662.14,2575.4,2602.97,8302.72305578
+786,"['eth', 'locked', 'lp', '?']",2024-09-30,Reddit,eth locked,2658.03,2662.14,2575.4,2602.97,8302.72305578
+787,"['advice', 'learn', 'practice', 'cfd', 'trading']",2024-09-30,Reddit,advice learn practice cfd trading,2658.03,2662.14,2575.4,2602.97,8302.72305578
+788,"['written', 'sand', '?']",2024-09-30,Reddit,written sand,2658.03,2662.14,2575.4,2602.97,8302.72305578
+789,"['georgios', 'konstantopoulos', 'reth', ',', 'engineering', 'management', ',', 'feedback', 'loop']",2024-09-30,Reddit,georgios konstantopoulos reth engineering management feedback loop,2658.03,2662.14,2575.4,2602.97,8302.72305578
+790,"['&', 'stake', 'ethereum']",2024-09-30,Reddit,stake ethereum,2658.03,2662.14,2575.4,2602.97,8302.72305578
+791,"['ethereum', 'classic', '(', 'etc', ')', 'price', 'reach', '$', '18.22']",2024-10-01,americanbankingnews,ethereum classic etc price reach,2602.42,2656.03,2413.97,2448.27,20433.23534175
+792,"['ethereum', 'name', 'service', 'price', 'hit', '$', '16.71', 'top', 'exchange', '(', 'en', ')']",2024-10-01,americanbankingnews,ethereum name service price hit top exchange,2602.42,2656.03,2413.97,2448.27,20433.23534175
+793,"['ethereum', 'price', 'reach', '$', '2,614.12', 'top', 'exchange', '(', 'eth', ')']",2024-10-01,americanbankingnews,ethereum price reach top exchange eth,2602.42,2656.03,2413.97,2448.27,20433.23534175
+794,"['blackrock', 'exec', 'say', 'new', 'ethereum', 'etf', 'face', '‘', 'narrative', '’', 'challenge']",2024-10-01,Fortune,blackrock exec say new ethereum etf face narrative challenge,2602.42,2656.03,2413.97,2448.27,20433.23534175
+795,"['need', 'help', 'recovering', 'erc20', 'token']",2024-10-01,Reddit,need help recovering erc token,2602.42,2656.03,2413.97,2448.27,20433.23534175
+796,"['kind', 'inscription', '?']",2024-10-01,Reddit,kind inscription,2602.42,2656.03,2413.97,2448.27,20433.23534175
+797,"['get', 'know', 'ethereum', 'work']",2024-10-01,Insights Success,get know ethereum work,2602.42,2656.03,2413.97,2448.27,20433.23534175
+798,"['getting', 'scammed', '?']",2024-10-02,Reddit,getting scammed,2447.38,2498.17,2352.33,2363.93,12628.53229529
+799,"['digital', 'renaissance', ':', 'nft', 'platform', 'empowering', 'modern', 'creator']",2024-10-02,journal,digital renaissance nft platform empowering modern creator,2447.38,2498.17,2352.33,2363.93,12628.53229529
+800,"['ethereum', 'name', 'service', 'price', 'top', '$', '16.85', 'top', 'exchange', '(', 'en', ')']",2024-10-02,americanbankingnews,ethereum name service price top top exchange,2447.38,2498.17,2352.33,2363.93,12628.53229529
+801,"['data', 'cached', 'process', '?']",2024-10-02,Reddit,data cached process,2447.38,2498.17,2352.33,2363.93,12628.53229529
+802,"['ethereum', 'name', 'service', 'hit', '24', 'hour', 'trading', 'volume', '$', '56.98', 'million', '(', 'en', ')']",2024-10-03,americanbankingnews,ethereum name service hit hour trading volume million,2363.92,2402.24,2321.01,2343.0,3198.6453959
+803,"['visa', 'introduces', 'visa', 'tokenized', 'asset', 'platform']",2024-10-03,Financial Post | Canada Business News,visa introduces visa tokenized asset platform,2363.92,2402.24,2321.01,2343.0,3198.6453959
+804,"['ethereum', 'price', 'hit', '$', '2,389.42', 'top', 'exchange', '(', 'eth', ')']",2024-10-03,americanbankingnews,ethereum price hit top exchange eth,2363.92,2402.24,2321.01,2343.0,3198.6453959
+805,"['ethereum', 'rejected', ':', 'avoid', 'deeper', 'downturn', '?']",2024-10-03,actionforex,ethereum rejected avoid deeper downturn,2363.92,2402.24,2321.01,2343.0,3198.6453959
+806,"['ethereum', 'classic', '24', 'hour', 'volume', 'reach', '$', '145.76', 'million', '(', 'etc', ')']",2024-10-03,americanbankingnews,ethereum classic hour volume reach million etc,2363.92,2402.24,2321.01,2343.0,3198.6453959
+807,"['ethereum', '(', 'eth', ')', 'market', 'cap', 'reach', '$', '279.15', 'billion']",2024-10-03,americanbankingnews,ethereum eth market cap reach billion,2363.92,2402.24,2321.01,2343.0,3198.6453959
+808,"['ethereum', 'classic', '(', 'etc', ')', 'trading', '9.6', '%', 'lower', 'last', '7', 'day']",2024-10-03,americanbankingnews,ethereum classic etc trading lower last day,2363.92,2402.24,2321.01,2343.0,3198.6453959
+809,"['eth', ':', 'grayscale', 'ethereum', 'mini', 'trust', ',', 'making', 'sense', 'under-performance']",2024-10-03,Seeking Alpha,eth grayscale ethereum mini trust making sense performance,2363.92,2402.24,2321.01,2343.0,3198.6453959
+810,"['need', 'sepolia', 'eth', '(', 'testnet', ')', '!']",2024-10-03,Reddit,need sepolia eth testnet,2363.92,2402.24,2321.01,2343.0,3198.6453959
